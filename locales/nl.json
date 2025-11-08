@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Platform voor Burgerbetrokkenheid",
+        "subtitle": "Uw directe lijn met het kantoor van burgemeester ZOHRAN.",
+        "welcome": "Welkom, {name}",
+        "logout": "Uitloggen",
+        "login": "Inloggen / Aanmelden"
+    },
+    "nav": {
+        "home": "Home",
+        "agenda": "Agenda's van het Burgemeesterskantoor",
+        "report": "Visueel Rapport Indienen",
+        "chat": "Community Chat"
+    },
+    "welcomeBanner": {
+        "title": "Uw Stem, de Toekomst van Onze Stad",
+        "description": "Welkom op het officiële platform voor betrokkenheid voor inwoners van New York City. Voel u vrij om problemen in de gemeenschap en de hele stad te melden, agenda's te volgen en rechtstreeks contact op te nemen met het kantoor van burgemeester Zohran."
+    },
+    "welcomePage": {
+        "agendaTitle": "Agenda's van het Burgemeesterskantoor",
+        "agendaDescription": "Bekijk de belangrijkste prioriteiten waar het kantoor van de burgemeester momenteel aan werkt, van infrastructuur tot openbare veiligheid. Volg de status van actieve initiatieven.",
+        "reportTitle": "Een Visueel Rapport Indienen",
+        "reportDescription": "Heeft u een probleem in uw gemeenschap opgemerkt? Upload een foto, beschrijf het probleem en dien het rechtstreeks in bij de relevante stadsdienst.",
+        "chatTitle": "Community Chat",
+        "chatDescription": "Heeft u een vraag of wilt u een gemeenschapsonderwerp bespreken? Ga in gesprek met de AI-assistent van het burgemeesterskantoor voor informatie en om uw feedback te delen.",
+        "announcementsTitle": "Aankondigingen van de Gemeenschap",
+        "newsletterTitle": "Blijf Geïnformeerd",
+        "newsletterDescription": "Abonneer u op onze wekelijkse nieuwsbrief voor updates over de agenda van de burgemeester en gemeenschapsevenementen.",
+        "subscribeButton": "Abonneren",
+        "subscribeSuccess": "Bedankt voor uw abonnement!",
+        "subscribePlaceholder": "Voer uw e-mailadres in",
+        "footer": "© {year} Kantoor van de Burgemeester van New York City Zohran Kwame Mamdani. Alle rechten voorbehouden."
+    },
+    "agenda": {
+        "title": "Agenda's van het Burgemeesterskantoor",
+        "description": "Volg de voortgang van belangrijke initiatieven in de hele stad.",
+        "searchPlaceholder": "Zoek agenda's op titel of beschrijving...",
+        "noItems": "Geen items komen overeen met uw zoekopdracht.",
+        "status": {
+            "underreview": "In Beoordeling",
+            "inprogress": "In Uitvoering",
+            "completed": "Voltooid"
+        }
+    },
+    "chat": {
+        "initialMessage": "Dit is het kantoor van de burgemeester van New York City, Zohran Mamdani. We zijn hier om rechtstreeks naar uw zorgen en ideeën voor onze geweldige stad te luisteren. Wat houdt u bezig?",
+        "typing": "De burgemeester typt",
+        "you": "U",
+        "mayor": "Burge.",
+        "placeholder": "Typ uw bericht aan de burgemeester...",
+        "send": "Verstuur"
+    },
+    "report": {
+        "uploadTitle": "Upload Uw Visueel Rapport",
+        "uploadDescription": "Klik of sleep een foto of korte video (max 15s)",
+        "newReportTitle": "Een Nieuw Rapport Indienen",
+        "myReportsTitle": "Mijn Ingediende Rapporten",
+        "sortBy": "Sorteer op",
+        "sortDate": "Datum",
+        "sortStatus": "Status",
+        "promptPlaceholder": "Beschrijf het probleem (bv. 'Schommel kapot op 0:05', 'Omcirkel de kuil')",
+        "pinLocation": "Locatie Pinnen",
+        "locationPinned": "Locatie Gemarkeerd",
+        "submitButton": "Rapport Indienen",
+        "submitting": "Indienen...",
+        "status": {
+            "received": "Ontvangen",
+            "underreview": "In Beoordeling",
+            "actioned": "Actie Ondernomen"
+        },
+        "card": {
+            "fullReport": "Volledig Rapport",
+            "submitted": "Ingediend",
+            "location": "Locatie",
+            "pinned": "Gemarkeerd op Kaart",
+            "reporter": "Melder",
+            "district": "District"
+        },
+        "feedback": {
+            "prompt": "Is dit probleem naar tevredenheid opgelost?",
+            "yes": "Ja",
+            "no": "Nee",
+            "thankYou": "Bedankt voor uw feedback!",
+            "commentsPlaceholder": "Voeg optionele opmerkingen toe...",
+            "saveComments": "Opmerkingen Opslaan",
+            "yourFeedback": "Uw Feedback",
+            "yourComments": "Uw Opmerkingen",
+            "satisfied": "Tevreden",
+            "unsatisfied": "Ontevreden"
+        },
+        "confirmation": {
+            "title": "Rapport Succesvol Ingediend!",
+            "description": "Uw rapport wordt nu verwerkt. U kunt de status ervan volgen onder \"Mijn Ingediende Rapporten\".",
+            "summary": "Samenvatting van Indiening",
+            "locationPinned": "Locatie succesvol aan het rapport gekoppeld.",
+            "reportedBy": "Gemeld door",
+            "district": "District",
+            "contact": "Contact",
+            "doneButton": "Klaar"
+        },
+        "error": {
+            "videoTooLong": "Video is te lang. Upload een clip van minder dan 15 seconden.",
+            "invalidFileType": "Ongeldig bestandstype. Upload een afbeeldings- of videobestand."
+        }
+    },
+    "login": {
+        "welcomeBack": "Welkom Terug",
+        "createAccount": "Maak Uw Account Aan",
+        "loginToContinue": "Log in om door te gaan",
+        "joinCommunity": "Word lid van de community om te beginnen",
+        "fullName": "Volledige Naam",
+        "email": "E-mailadres",
+        "password": "Wachtwoord",
+        "loginButton": "Inloggen",
+        "signupButton": "Aanmelden",
+        "noAccount": "Heeft u geen account?",
+        "hasAccount": "Heeft u al een account?"
+    },
+    "map": {
+        "title": "Geef Rapportdetails Op",
+        "nameLabel": "Naam van Melder",
+        "namePlaceholder": "bv. Jane Doe",
+        "districtLabel": "District",
+        "districtPlaceholder": "bv. Manhattan Community District 5",
+        "contactLabel": "E-mail / Telefoonnummer",
+        "contactPlaceholder": "Voor vervolgvragen",
+        "optional": "Optioneel",
+        "locationLabel": "Locatie",
+        "useCurrentLocation": "Huidige Locatie Gebruiken",
+        "fetching": "Ophalen...",
+        "latitude": "Breedtegraad",
+        "longitude": "Lengtegraad",
+        "cancel": "Annuleren",
+        "confirm": "Details Bevestigen",
+        "error": {
+            "notSupported": "Geolocatie wordt niet ondersteund door uw browser.",
+            "unableToRetrieve": "Kan uw locatie niet ophalen. Schakel locatiediensten in en probeer het opnieuw.",
+            "nameRequired": "Naam van de melder is verplicht.",
+            "districtRequired": "District is verplicht.",
+            "latLngRequired": "Voer breedte- en lengtegraad in.",
+            "invalidLatLng": "Voer geldige numerieke breedte- en lengtegraden in.",
+            "invalidLatRange": "Breedtegraad moet tussen -90 en 90 liggen.",
+            "invalidLngRange": "Lengtegraad moet tussen -180 en 180 liggen."
+        }
+    }
+}

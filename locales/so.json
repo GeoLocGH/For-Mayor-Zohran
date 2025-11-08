@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Madasha Ka Qaybgalka Bulshada",
+        "subtitle": "Khadkaaga tooska ah ee Xafiiska Duqa Magaalada ZOHRAN.",
+        "welcome": "Soo dhawoow, {name}",
+        "logout": "Ka bax",
+        "login": "Gal / Isdiiwaangeli"
+    },
+    "nav": {
+        "home": "Guriga",
+        "agenda": "Ajandayaasha Xafiiska Duqa",
+        "report": "Soo Gudbi Warbixin Muuqaal ah",
+        "chat": "Wadahadalka Bulshada"
+    },
+    "welcomeBanner": {
+        "title": "Codkaaga, Mustaqbalka Magaaladeena",
+        "description": "Ku soo dhawoow madasha rasmiga ah ee ka qaybgalka dadka degan Magaalada New York. Si xor ah u soo sheeg arrimaha bulshada iyo magaalada oo dhan, la soco ajandayaasha, oo si toos ah ula xiriir xafiiska Duqa Magaalada Zohran."
+    },
+    "welcomePage": {
+        "agendaTitle": "Ajandayaasha Xafiiska Duqa",
+        "agendaDescription": "Eeg mudnaanta muhiimka ah ee xafiiska Duqa Magaalada uu hadda ka shaqeynayo, laga soo bilaabo kaabayaasha ilaa amniga dadweynaha. La soco heerka dadaallada firfircoon.",
+        "reportTitle": "Soo Gudbi Warbixin Muuqaal ah",
+        "reportDescription": "Miyaad aragtay arrin ka jirta bulshadaada? Soo geli sawir, sharax dhibaatada, oo si toos ah ugu gudbi waaxda magaalada ee ay khusayso.",
+        "chatTitle": "Wadahadalka Bulshada",
+        "chatDescription": "Su'aal ma qabtaa ama ma rabtaa inaad ka hadasho mowduuc bulsho? La xiriir kaaliyaha AI ee xafiiska Duqa Magaalada si aad u hesho macluumaad oo aad ula wadaagto ra'yigaaga.",
+        "announcementsTitle": "Ogeysiisyada Bulshada",
+        "newsletterTitle": "La Soco Wararka",
+        "newsletterDescription": "Iska qor warsideheena toddobaadlaha ah si aad u hesho wararkii ugu dambeeyay ee ku saabsan ajandaha Duqa Magaalada iyo dhacdooyinka bulshada.",
+        "subscribeButton": "Isdiiwaangeli",
+        "subscribeSuccess": "Waad ku mahadsan tahay isdiiwaangelintaada!",
+        "subscribePlaceholder": "Geli cinwaanka iimaylkaaga",
+        "footer": "© {year} Xafiiska Duqa Magaalada New York Zohran Kwame Mamdani. Xuquuqda oo dhan way xifdisan tahay."
+    },
+    "agenda": {
+        "title": "Ajandayaasha Xafiiska Duqa",
+        "description": "La soco horumarka dadaallada muhiimka ah ee magaalada oo dhan.",
+        "searchPlaceholder": "Ka raadi ajandayaasha cinwaan ama sharaxaad...",
+        "noItems": "Wax shay ah oo u dhigma raadintaada ma jiraan.",
+        "status": {
+            "underreview": "Dib u eegis ku socota",
+            "inprogress": "Soconaysa",
+            "completed": "La dhameeyay"
+        }
+    },
+    "chat": {
+        "initialMessage": "Kani waa Xafiiska Duqa Magaalada New York Zohran Mamdani. Waxaan halkaan u joognaa inaan si toos ah u dhageysano welwelkaaga iyo fikradahaaga ku aaddan magaaladeena weyn. Maxaa maskaxdaada ku jira?",
+        "typing": "Duqa wuu qorayaa",
+        "you": "Adiga",
+        "mayor": "Duqa",
+        "placeholder": "Fariintaada u qor Duqa...",
+        "send": "Dir"
+    },
+    "report": {
+        "uploadTitle": "Soo Geli Warbixintaada Muuqaalka ah",
+        "uploadDescription": "Guji ama jiid oo soo rid sawir ama muuqaal gaaban (ugu badnaan 15s)",
+        "newReportTitle": "Soo Gudbi Warbixin Cusub",
+        "myReportsTitle": "Warbixinnadayda la soo Gudbiyay",
+        "sortBy": "Kala saar",
+        "sortDate": "Taariikh",
+        "sortStatus": "Heerka",
+        "promptPlaceholder": "Sharax arrinta (tusaale, 'Lulid jaban 0:05', 'Godka ku wareeji goobo')",
+        "pinLocation": "Calaamadee Goobta",
+        "locationPinned": "Goobta la Calaamadeeyay",
+        "submitButton": "Gudbi Warbixinta",
+        "submitting": "Gudbinaya...",
+        "status": {
+            "received": "La helay",
+            "underreview": "Dib u eegis ku socota",
+            "actioned": "Tallaabo laga qaaday"
+        },
+        "card": {
+            "fullReport": "Warbixin Buuxda",
+            "submitted": "La gudbiyay",
+            "location": "Goobta",
+            "pinned": "Lagu calaamadeeyay Khariidadda",
+            "reporter": "Warbixiye",
+            "district": "Degmo"
+        },
+        "feedback": {
+            "prompt": "Arrintan si lagu qanco ma loo xalliyay?",
+            "yes": "Haa",
+            "no": "Maya",
+            "thankYou": "Waad ku mahadsan tahay ra'yigaaga!",
+            "commentsPlaceholder": "Ku dar faallooyin ikhtiyaari ah...",
+            "saveComments": "Keydi Faallooyinka",
+            "yourFeedback": "Ra'yigaaga",
+            "yourComments": "Faallooyinkaaga",
+            "satisfied": "Ku qanacsan",
+            "unsatisfied": "Aan ku qanacsanayn"
+        },
+        "confirmation": {
+            "title": "Warbixinta si guul leh ayaa loo gudbiyay!",
+            "description": "Warbixintaada hadda waa la baaraandegayaa. Waxaad ka la socon kartaa heerkeeda \"Warbixinnadayda la soo Gudbiyay\".",
+            "summary": "Soo Koobidda Gudbinta",
+            "locationPinned": "Goobta si guul leh ayaa loogu calaamadeeyay warbixinta.",
+            "reportedBy": "Laga soo sheegay",
+            "district": "Degmo",
+            "contact": "Xiriir",
+            "doneButton": "La sameeyay"
+        },
+        "error": {
+            "videoTooLong": "Muuqaalku aad buu u dheer yahay. Fadlan soo geli muuqaal ka yar 15 ilbiriqsi.",
+            "invalidFileType": "Nooca faylka oo khaldan. Fadlan soo geli fayl sawir ama muuqaal ah."
+        }
+    },
+    "login": {
+        "welcomeBack": "Soo Dhawoow Mar Kale",
+        "createAccount": "Sameyso Koonto",
+        "loginToContinue": "Gal si aad u sii wadato",
+        "joinCommunity": "Ku soo biir bulshada si aad u bilowdo",
+        "fullName": "Magaca oo Buuxa",
+        "email": "Cinwaanka Iimaylka",
+        "password": "Furaha Sirta",
+        "loginButton": "Gal",
+        "signupButton": "Isdiiwaangeli",
+        "noAccount": "Koonto ma lihid?",
+        "hasAccount": "Horey ma u lahayd koonto?"
+    },
+    "map": {
+        "title": "Bixi Faahfaahinta Warbixinta",
+        "nameLabel": "Magaca Warbixiyaha",
+        "namePlaceholder": "tusaale, Jane Doe",
+        "districtLabel": "Degmo",
+        "districtPlaceholder": "tusaale, Degmada Bulshada Manhattan 5",
+        "contactLabel": "Iimayl / Lambarka Telefoonka",
+        "contactPlaceholder": "Su'aalaha daba-galka ah",
+        "optional": "Ikhtiyaari",
+        "locationLabel": "Goobta",
+        "useCurrentLocation": "Isticmaal Goobta Hadda",
+        "fetching": "Keenaya...",
+        "latitude": "Loolka",
+        "longitude": "Dhulbarka",
+        "cancel": "Tirtir",
+        "confirm": "Xaqiiji Faahfaahinta",
+        "error": {
+            "notSupported": "Goob-joogga lagama taageero biraawsarkaaga.",
+            "unableToRetrieve": "Lama soo ceshan karo goobtaada. Fadlan awood sii adeegyada goobta oo isku day mar kale.",
+            "nameRequired": "Magaca warbixiyaha waa loo baahan yahay.",
+            "districtRequired": "Degmadu waa loo baahan yahay.",
+            "latLngRequired": "Fadlan geli loolka iyo dhulbarka.",
+            "invalidLatLng": "Fadlan geli loolka iyo dhulbarka nambar sax ah.",
+            "invalidLatRange": "Loolku waa inuu u dhexeeyaa -90 iyo 90.",
+            "invalidLngRange": "Dhulbarku waa inuu u dhexeeyaa -180 iyo 180."
+        }
+    }
+}

@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Plattform für bürgerschaftliches Engagement",
+        "subtitle": "Ihr direkter Draht zum Büro von Bürgermeister ZOHRAN.",
+        "welcome": "Willkommen, {name}",
+        "logout": "Abmelden",
+        "login": "Anmelden / Registrieren"
+    },
+    "nav": {
+        "home": "Startseite",
+        "agenda": "Agenden des Bürgermeisterbüros",
+        "report": "Visuellen Bericht einreichen",
+        "chat": "Community-Chat"
+    },
+    "welcomeBanner": {
+        "title": "Ihre Stimme, die Zukunft unserer Stadt",
+        "description": "Willkommen auf der offiziellen Engagement-Plattform für die Einwohner von New York City. Melden Sie Probleme in der Community und der ganzen Stadt, verfolgen Sie Agenden und treten Sie direkt mit dem Büro von Bürgermeister Zohran in Kontakt."
+    },
+    "welcomePage": {
+        "agendaTitle": "Agenden des Bürgermeisterbüros",
+        "agendaDescription": "Sehen Sie sich die wichtigsten Prioritäten an, an denen das Büro des Bürgermeisters derzeit arbeitet, von Infrastruktur bis zur öffentlichen Sicherheit. Verfolgen Sie den Status aktiver Initiativen.",
+        "reportTitle": "Einen visuellen Bericht einreichen",
+        "reportDescription": "Haben Sie ein Problem in Ihrer Gemeinde entdeckt? Laden Sie ein Foto hoch, beschreiben Sie das Problem und reichen Sie es direkt bei der zuständigen städtischen Abteilung ein.",
+        "chatTitle": "Community-Chat",
+        "chatDescription": "Haben Sie eine Frage oder möchten Sie ein Community-Thema diskutieren? Interagieren Sie mit dem KI-Assistenten des Bürgermeisterbüros, um Informationen zu erhalten und Ihr Feedback zu teilen.",
+        "announcementsTitle": "Community-Ankündigungen",
+        "newsletterTitle": "Bleiben Sie informiert",
+        "newsletterDescription": "Abonnieren Sie unseren wöchentlichen Newsletter für Updates zur Agenda des Bürgermeisters und zu Community-Veranstaltungen.",
+        "subscribeButton": "Abonnieren",
+        "subscribeSuccess": "Vielen Dank für Ihr Abonnement!",
+        "subscribePlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+        "footer": "© {year} Büro des Bürgermeisters von New York City Zohran Kwame Mamdani. Alle Rechte vorbehalten."
+    },
+    "agenda": {
+        "title": "Agenden des Bürgermeisterbüros",
+        "description": "Verfolgen Sie den Fortschritt wichtiger Initiativen in der ganzen Stadt.",
+        "searchPlaceholder": "Suchen Sie Agenden nach Titel oder Beschreibung...",
+        "noItems": "Keine Einträge entsprechen Ihrer Suche.",
+        "status": {
+            "underreview": "Wird überprüft",
+            "inprogress": "In Bearbeitung",
+            "completed": "Abgeschlossen"
+        }
+    },
+    "chat": {
+        "initialMessage": "Hier ist das Büro des Bürgermeisters von New York City, Zohran Mamdani. Wir sind hier, um direkt auf Ihre Anliegen und Ideen für unsere großartige Stadt einzugehen. Was liegt Ihnen auf dem Herzen?",
+        "typing": "Der Bürgermeister tippt",
+        "you": "Sie",
+        "mayor": "Bürgerm.",
+        "placeholder": "Geben Sie Ihre Nachricht an den Bürgermeister ein...",
+        "send": "Senden"
+    },
+    "report": {
+        "uploadTitle": "Laden Sie Ihren visuellen Bericht hoch",
+        "uploadDescription": "Klicken oder ziehen Sie ein Foto oder ein kurzes Video (max. 15s) hierher",
+        "newReportTitle": "Einen neuen Bericht einreichen",
+        "myReportsTitle": "Meine eingereichten Berichte",
+        "sortBy": "Sortieren nach",
+        "sortDate": "Datum",
+        "sortStatus": "Status",
+        "promptPlaceholder": "Problem beschreiben (z.B. 'Schaukel bei 0:05 kaputt', 'Schlagloch einkreisen')",
+        "pinLocation": "Standort markieren",
+        "locationPinned": "Standort markiert",
+        "submitButton": "Bericht einreichen",
+        "submitting": "Wird eingereicht...",
+        "status": {
+            "received": "Erhalten",
+            "underreview": "Wird überprüft",
+            "actioned": "Maßnahme ergriffen"
+        },
+        "card": {
+            "fullReport": "Vollständiger Bericht",
+            "submitted": "Eingereicht",
+            "location": "Standort",
+            "pinned": "Auf Karte markiert",
+            "reporter": "Melder",
+            "district": "Bezirk"
+        },
+        "feedback": {
+            "prompt": "Wurde dieses Problem zu Ihrer Zufriedenheit gelöst?",
+            "yes": "Ja",
+            "no": "Nein",
+            "thankYou": "Vielen Dank für Ihr Feedback!",
+            "commentsPlaceholder": "Optionale Kommentare hinzufügen...",
+            "saveComments": "Kommentare speichern",
+            "yourFeedback": "Ihr Feedback",
+            "yourComments": "Ihre Kommentare",
+            "satisfied": "Zufrieden",
+            "unsatisfied": "Unzufrieden"
+        },
+        "confirmation": {
+            "title": "Bericht erfolgreich eingereicht!",
+            "description": "Ihr Bericht wird nun bearbeitet. Sie können seinen Status unter „Meine eingereichten Berichte“ verfolgen.",
+            "summary": "Zusammenfassung der Einreichung",
+            "locationPinned": "Standort erfolgreich zum Bericht hinzugefügt.",
+            "reportedBy": "Gemeldet von",
+            "district": "Bezirk",
+            "contact": "Kontakt",
+            "doneButton": "Fertig"
+        },
+        "error": {
+            "videoTooLong": "Das Video ist zu lang. Bitte laden Sie einen Clip unter 15 Sekunden hoch.",
+            "invalidFileType": "Ungültiger Dateityp. Bitte laden Sie eine Bild- oder Videodatei hoch."
+        }
+    },
+    "login": {
+        "welcomeBack": "Willkommen zurück",
+        "createAccount": "Erstellen Sie Ihr Konto",
+        "loginToContinue": "Melden Sie sich an, um fortzufahren",
+        "joinCommunity": "Treten Sie der Community bei, um loszulegen",
+        "fullName": "Vollständiger Name",
+        "email": "E-Mail-Adresse",
+        "password": "Passwort",
+        "loginButton": "Anmelden",
+        "signupButton": "Registrieren",
+        "noAccount": "Haben Sie noch kein Konto?",
+        "hasAccount": "Haben Sie bereits ein Konto?"
+    },
+    "map": {
+        "title": "Berichtsdetails angeben",
+        "nameLabel": "Name des Melders",
+        "namePlaceholder": "z.B. Jane Doe",
+        "districtLabel": "Bezirk",
+        "districtPlaceholder": "z.B. Manhattan Community District 5",
+        "contactLabel": "E-Mail / Telefonnummer",
+        "contactPlaceholder": "Für Rückfragen",
+        "optional": "Optional",
+        "locationLabel": "Standort",
+        "useCurrentLocation": "Aktuellen Standort verwenden",
+        "fetching": "Wird abgerufen...",
+        "latitude": "Breitengrad",
+        "longitude": "Längengrad",
+        "cancel": "Abbrechen",
+        "confirm": "Details bestätigen",
+        "error": {
+            "notSupported": "Die Geolokalisierung wird von Ihrem Browser nicht unterstützt.",
+            "unableToRetrieve": "Ihr Standort konnte nicht abgerufen werden. Bitte aktivieren Sie die Ortungsdienste und versuchen Sie es erneut.",
+            "nameRequired": "Der Name des Melders ist erforderlich.",
+            "districtRequired": "Der Bezirk ist erforderlich.",
+            "latLngRequired": "Bitte geben Sie Breiten- und Längengrad ein.",
+            "invalidLatLng": "Bitte geben Sie gültige numerische Breiten- und Längengrade ein.",
+            "invalidLatRange": "Der Breitengrad muss zwischen -90 und 90 liegen.",
+            "invalidLngRange": "Der Längengrad muss zwischen -180 und 180 liegen."
+        }
+    }
+}

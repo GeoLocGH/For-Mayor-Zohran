@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Piattaforma di Coinvolgimento della Comunità",
+        "subtitle": "La tua linea diretta con l'ufficio del sindaco ZOHRAN.",
+        "welcome": "Benvenuto, {name}",
+        "logout": "Esci",
+        "login": "Accedi / Registrati"
+    },
+    "nav": {
+        "home": "Home",
+        "agenda": "Agende dell'Ufficio del Sindaco",
+        "report": "Invia Segnalazione Visiva",
+        "chat": "Chat della Comunità"
+    },
+    "welcomeBanner": {
+        "title": "La Tua Voce, il Futuro della Nostra Città",
+        "description": "Benvenuti sulla piattaforma di coinvolgimento ufficiale per i residenti di New York City. Sentitevi liberi di segnalare problemi della comunità e dell'intera città, seguire le agende e connettervi direttamente con l'ufficio del sindaco Zohran."
+    },
+    "welcomePage": {
+        "agendaTitle": "Agende dell'Ufficio del Sindaco",
+        "agendaDescription": "Consulta le priorità chiave su cui sta lavorando l'ufficio del sindaco, dalle infrastrutture alla sicurezza pubblica. Tieni traccia dello stato delle iniziative attive.",
+        "reportTitle": "Invia una Segnalazione Visiva",
+        "reportDescription": "Hai notato un problema nella tua comunità? Carica una foto, descrivi il problema e invialo direttamente al dipartimento cittadino competente.",
+        "chatTitle": "Chat della Comunità",
+        "chatDescription": "Hai una domanda o vuoi discutere un argomento della comunità? Interagisci con l'assistente AI dell'ufficio del sindaco per informazioni e per condividere il tuo feedback.",
+        "announcementsTitle": "Annunci della Comunità",
+        "newsletterTitle": "Rimani Informato",
+        "newsletterDescription": "Iscriviti alla nostra newsletter settimanale per aggiornamenti sull'agenda del sindaco e sugli eventi della comunità.",
+        "subscribeButton": "Iscriviti",
+        "subscribeSuccess": "Grazie per esserti iscritto!",
+        "subscribePlaceholder": "Inserisci il tuo indirizzo email",
+        "footer": "© {year} Ufficio del Sindaco di New York City Zohran Kwame Mamdani. Tutti i diritti riservati."
+    },
+    "agenda": {
+        "title": "Agende dell'Ufficio del Sindaco",
+        "description": "Tieni traccia dei progressi delle iniziative chiave in tutta la città.",
+        "searchPlaceholder": "Cerca agende per titolo o descrizione...",
+        "noItems": "Nessun elemento corrisponde alla tua ricerca.",
+        "status": {
+            "underreview": "In Revisione",
+            "inprogress": "In Corso",
+            "completed": "Completato"
+        }
+    },
+    "chat": {
+        "initialMessage": "Questo è l'ufficio del sindaco di New York City, Zohran Mamdani. Siamo qui per ascoltare direttamente le vostre preoccupazioni e idee per la nostra grande città. Cosa avete in mente?",
+        "typing": "Il Sindaco sta scrivendo",
+        "you": "Tu",
+        "mayor": "Sindaco",
+        "placeholder": "Scrivi il tuo messaggio al Sindaco...",
+        "send": "Invia"
+    },
+    "report": {
+        "uploadTitle": "Carica la tua Segnalazione Visiva",
+        "uploadDescription": "Clicca o trascina una foto o un breve video (max 15s)",
+        "newReportTitle": "Invia una Nuova Segnalazione",
+        "myReportsTitle": "Le Mie Segnalazioni Inviate",
+        "sortBy": "Ordina per",
+        "sortDate": "Data",
+        "sortStatus": "Stato",
+        "promptPlaceholder": "Descrivi il problema (es. 'Altalena rotta al 0:05', 'Cerchia la buca')",
+        "pinLocation": "Fissa Posizione",
+        "locationPinned": "Posizione Fissata",
+        "submitButton": "Invia Segnalazione",
+        "submitting": "Invio in corso...",
+        "status": {
+            "received": "Ricevuto",
+            "underreview": "In Revisione",
+            "actioned": "Azione Intrapresa"
+        },
+        "card": {
+            "fullReport": "Segnalazione Completa",
+            "submitted": "Inviato",
+            "location": "Posizione",
+            "pinned": "Fissato sulla Mappa",
+            "reporter": "Segnalatore",
+            "district": "Distretto"
+        },
+        "feedback": {
+            "prompt": "Questo problema è stato risolto in modo soddisfacente?",
+            "yes": "Sì",
+            "no": "No",
+            "thankYou": "Grazie per il tuo feedback!",
+            "commentsPlaceholder": "Aggiungi commenti opzionali...",
+            "saveComments": "Salva Commenti",
+            "yourFeedback": "Il Tuo Feedback",
+            "yourComments": "I Tuoi Commenti",
+            "satisfied": "Soddisfatto",
+            "unsatisfied": "Non soddisfatto"
+        },
+        "confirmation": {
+            "title": "Segnalazione Inviata con Successo!",
+            "description": "La tua segnalazione è in fase di elaborazione. Puoi seguirne lo stato in \"Le Mie Segnalazioni Inviate\".",
+            "summary": "Riepilogo dell'Invio",
+            "locationPinned": "Posizione fissata con successo alla segnalazione.",
+            "reportedBy": "Segnalato da",
+            "district": "Distretto",
+            "contact": "Contatto",
+            "doneButton": "Fatto"
+        },
+        "error": {
+            "videoTooLong": "Il video è troppo lungo. Carica un clip di meno di 15 secondi.",
+            "invalidFileType": "Tipo di file non valido. Carica un file immagine o video."
+        }
+    },
+    "login": {
+        "welcomeBack": "Bentornato",
+        "createAccount": "Crea il Tuo Account",
+        "loginToContinue": "Accedi per continuare",
+        "joinCommunity": "Unisciti alla comunità per iniziare",
+        "fullName": "Nome Completo",
+        "email": "Indirizzo Email",
+        "password": "Password",
+        "loginButton": "Accedi",
+        "signupButton": "Registrati",
+        "noAccount": "Non hai un account?",
+        "hasAccount": "Hai già un account?"
+    },
+    "map": {
+        "title": "Fornisci Dettagli sulla Segnalazione",
+        "nameLabel": "Nome del Segnalatore",
+        "namePlaceholder": "es. Jane Doe",
+        "districtLabel": "Distretto",
+        "districtPlaceholder": "es. Manhattan Community District 5",
+        "contactLabel": "Email / Numero di Telefono",
+        "contactPlaceholder": "Per domande di follow-up",
+        "optional": "Opzionale",
+        "locationLabel": "Posizione",
+        "useCurrentLocation": "Usa Posizione Attuale",
+        "fetching": "Recupero...",
+        "latitude": "Latitudine",
+        "longitude": "Longitudine",
+        "cancel": "Annulla",
+        "confirm": "Conferma Dettagli",
+        "error": {
+            "notSupported": "La geolocalizzazione non è supportata dal tuo browser.",
+            "unableToRetrieve": "Impossibile recuperare la tua posizione. Abilita i servizi di localizzazione e riprova.",
+            "nameRequired": "Il nome del segnalatore è obbligatorio.",
+            "districtRequired": "Il distretto è obbligatorio.",
+            "latLngRequired": "Inserisci latitudine e longitudine.",
+            "invalidLatLng": "Inserisci latitudine e longitudine numeriche valide.",
+            "invalidLatRange": "La latitudine deve essere compresa tra -90 e 90.",
+            "invalidLngRange": "La longitudine deve essere compresa tra -180 e 180."
+        }
+    }
+}

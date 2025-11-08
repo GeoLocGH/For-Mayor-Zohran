@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Plateforme d'Engagement Communautaire",
+        "subtitle": "Votre ligne directe avec le bureau du maire ZOHRAN.",
+        "welcome": "Bienvenue, {name}",
+        "logout": "Déconnexion",
+        "login": "Connexion / Inscription"
+    },
+    "nav": {
+        "home": "Accueil",
+        "agenda": "Agendas du Bureau du Maire",
+        "report": "Soumettre un rapport visuel",
+        "chat": "Discussion communautaire"
+    },
+    "welcomeBanner": {
+        "title": "Votre Voix, l'Avenir de Notre Ville",
+        "description": "Bienvenue sur la plateforme d'engagement officielle pour les résidents de la ville de New York. N'hésitez pas à signaler des problèmes de la communauté et de la ville, à suivre les agendas et à vous connecter directement avec le bureau du maire Zohran."
+    },
+    "welcomePage": {
+        "agendaTitle": "Agendas du Bureau du Maire",
+        "agendaDescription": "Consultez les principales priorités sur lesquelles le bureau du maire travaille actuellement, de l'infrastructure à la sécurité publique. Suivez l'état des initiatives actives.",
+        "reportTitle": "Soumettre un rapport visuel",
+        "reportDescription": "Vous avez repéré un problème dans votre communauté ? Téléchargez une photo, décrivez le problème et soumettez-le directement au service municipal concerné.",
+        "chatTitle": "Discussion communautaire",
+        "chatDescription": "Vous avez une question ou souhaitez discuter d'un sujet communautaire ? Interagissez avec l'assistant IA du bureau du maire pour obtenir des informations et partager vos commentaires.",
+        "announcementsTitle": "Annonces de la communauté",
+        "newsletterTitle": "Restez informé",
+        "newsletterDescription": "Abonnez-vous à notre newsletter hebdomadaire pour des mises à jour sur l'agenda du maire et les événements communautaires.",
+        "subscribeButton": "S'abonner",
+        "subscribeSuccess": "Merci de vous être abonné !",
+        "subscribePlaceholder": "Entrez votre adresse e-mail",
+        "footer": "© {year} Bureau du maire de New York Zohran Kwame Mamdani. Tous droits réservés."
+    },
+    "agenda": {
+        "title": "Agendas du Bureau du Maire",
+        "description": "Suivez les progrès des initiatives clés à travers la ville.",
+        "searchPlaceholder": "Rechercher des agendas par titre ou description...",
+        "noItems": "Aucun élément ne correspond à votre recherche.",
+        "status": {
+            "underreview": "En cours d'examen",
+            "inprogress": "En cours",
+            "completed": "Terminé"
+        }
+    },
+    "chat": {
+        "initialMessage": "Ceci est le bureau du maire de New York, Zohran Mamdani. Nous sommes ici pour écouter directement vos préoccupations et vos idées pour notre grande ville. Qu'avez-vous en tête ?",
+        "typing": "Le maire est en train d'écrire",
+        "you": "Vous",
+        "mayor": "Maire",
+        "placeholder": "Tapez votre message au maire...",
+        "send": "Envoyer"
+    },
+    "report": {
+        "uploadTitle": "Téléchargez votre rapport visuel",
+        "uploadDescription": "Cliquez ou glissez-déposez une photo ou une courte vidéo (max 15s)",
+        "newReportTitle": "Soumettre un nouveau rapport",
+        "myReportsTitle": "Mes rapports soumis",
+        "sortBy": "Trier par",
+        "sortDate": "Date",
+        "sortStatus": "Statut",
+        "promptPlaceholder": "Décrivez le problème (ex: 'Balançoire cassée à 0:05', 'Entourez le nid-de-poule')",
+        "pinLocation": "Épingler l'emplacement",
+        "locationPinned": "Emplacement épinglé",
+        "submitButton": "Soumettre le rapport",
+        "submitting": "Soumission...",
+        "status": {
+            "received": "Reçu",
+            "underreview": "En cours d'examen",
+            "actioned": "Traité"
+        },
+        "card": {
+            "fullReport": "Rapport complet",
+            "submitted": "Soumis le",
+            "location": "Emplacement",
+            "pinned": "Épinglé sur la carte",
+            "reporter": "Rapporteur",
+            "district": "District"
+        },
+        "feedback": {
+            "prompt": "Ce problème a-t-il été résolu à votre satisfaction ?",
+            "yes": "Oui",
+            "no": "Non",
+            "thankYou": "Merci pour vos commentaires !",
+            "commentsPlaceholder": "Ajouter des commentaires facultatifs...",
+            "saveComments": "Enregistrer les commentaires",
+            "yourFeedback": "Vos commentaires",
+            "yourComments": "Vos commentaires",
+            "satisfied": "Satisfait",
+            "unsatisfied": "Insatisfait"
+        },
+        "confirmation": {
+            "title": "Rapport soumis avec succès !",
+            "description": "Votre rapport est en cours de traitement. Vous pouvez suivre son statut sous \"Mes rapports soumis\".",
+            "summary": "Résumé de la soumission",
+            "locationPinned": "Emplacement épinglé avec succès au rapport.",
+            "reportedBy": "Signalé par",
+            "district": "District",
+            "contact": "Contact",
+            "doneButton": "Terminé"
+        },
+        "error": {
+            "videoTooLong": "La vidéo est trop longue. Veuillez télécharger un clip de moins de 15 secondes.",
+            "invalidFileType": "Type de fichier non valide. Veuillez télécharger un fichier image ou vidéo."
+        }
+    },
+    "login": {
+        "welcomeBack": "Bon retour",
+        "createAccount": "Créez votre compte",
+        "loginToContinue": "Connectez-vous pour continuer",
+        "joinCommunity": "Rejoignez la communauté pour commencer",
+        "fullName": "Nom complet",
+        "email": "Adresse e-mail",
+        "password": "Mot de passe",
+        "loginButton": "Se connecter",
+        "signupButton": "S'inscrire",
+        "noAccount": "Vous n'avez pas de compte ?",
+        "hasAccount": "Vous avez déjà un compte ?"
+    },
+    "map": {
+        "title": "Fournir les détails du rapport",
+        "nameLabel": "Nom du rapporteur",
+        "namePlaceholder": "ex: Jane Doe",
+        "districtLabel": "District",
+        "districtPlaceholder": "ex: Manhattan Community District 5",
+        "contactLabel": "E-mail / Numéro de téléphone",
+        "contactPlaceholder": "Pour des questions de suivi",
+        "optional": "Facultatif",
+        "locationLabel": "Emplacement",
+        "useCurrentLocation": "Utiliser l'emplacement actuel",
+        "fetching": "Récupération...",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "cancel": "Annuler",
+        "confirm": "Confirmer les détails",
+        "error": {
+            "notSupported": "La géolocalisation n'est pas prise en charge par votre navigateur.",
+            "unableToRetrieve": "Impossible de récupérer votre emplacement. Veuillez activer les services de localisation et réessayer.",
+            "nameRequired": "Le nom du rapporteur est requis.",
+            "districtRequired": "Le district est requis.",
+            "latLngRequired": "Veuillez entrer la latitude et la longitude.",
+            "invalidLatLng": "Veuillez entrer une latitude et une longitude numériques valides.",
+            "invalidLatRange": "La latitude doit être comprise entre -90 et 90.",
+            "invalidLngRange": "La longitude doit être comprise entre -180 et 180."
+        }
+    }
+}

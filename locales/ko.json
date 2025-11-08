@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "커뮤니티 참여 플랫폼",
+        "subtitle": "조란 시장실 직통 라인입니다.",
+        "welcome": "환영합니다, {name}님",
+        "logout": "로그아웃",
+        "login": "로그인 / 회원가입"
+    },
+    "nav": {
+        "home": "홈",
+        "agenda": "시장실 의제",
+        "report": "영상 보고서 제출",
+        "chat": "커뮤니티 채팅"
+    },
+    "welcomeBanner": {
+        "title": "여러분의 목소리, 우리 도시의 미래",
+        "description": "뉴욕 시민을 위한 공식 참여 플랫폼에 오신 것을 환영합니다. 커뮤니티 및 도시 전반의 문제를 보고하고, 의제를 추적하며, 조란 시장실과 직접 소통하세요."
+    },
+    "welcomePage": {
+        "agendaTitle": "시장실 의제",
+        "agendaDescription": "인프라부터 공공 안전까지, 시장실이 현재 추진 중인 주요 우선 과제를 확인하세요. 진행 중인 계획의 상태를 추적할 수 있습니다.",
+        "reportTitle": "영상 보고서 제출",
+        "reportDescription": "커뮤니티에서 문제를 발견하셨나요? 사진을 업로드하고, 문제를 설명하여 관련 시 부서에 직접 제출하세요.",
+        "chatTitle": "커뮤니티 채팅",
+        "chatDescription": "궁금한 점이 있거나 커뮤니티 주제에 대해 논의하고 싶으신가요? 시장실 AI 비서와 소통하여 정보를 얻고 피드백을 공유하세요.",
+        "announcementsTitle": "커뮤니티 공지",
+        "newsletterTitle": "최신 정보 받기",
+        "newsletterDescription": "시장 의제 및 커뮤니티 행사에 대한 최신 정보를 받아보시려면 주간 뉴스레터를 구독하세요.",
+        "subscribeButton": "구독하기",
+        "subscribeSuccess": "구독해 주셔서 감사합니다!",
+        "subscribePlaceholder": "이메일 주소를 입력하세요",
+        "footer": "© {year} 뉴욕 시장 조란 콰메 맘다니 사무실. 모든 권리 보유."
+    },
+    "agenda": {
+        "title": "시장실 의제",
+        "description": "도시 전역의 주요 계획 진행 상황을 추적하세요.",
+        "searchPlaceholder": "제목이나 설명으로 의제 검색...",
+        "noItems": "검색 결과와 일치하는 항목이 없습니다.",
+        "status": {
+            "underreview": "검토 중",
+            "inprogress": "진행 중",
+            "completed": "완료됨"
+        }
+    },
+    "chat": {
+        "initialMessage": "여기는 뉴욕 시장 조란 맘다니 사무실입니다. 우리는 위대한 도시를 위한 여러분의 우려와 아이디어를 직접 듣기 위해 여기에 있습니다. 무슨 생각을 하고 계신가요?",
+        "typing": "시장님이 입력 중입니다",
+        "you": "나",
+        "mayor": "시장",
+        "placeholder": "시장님께 메시지를 입력하세요...",
+        "send": "전송"
+    },
+    "report": {
+        "uploadTitle": "영상 보고서 업로드",
+        "uploadDescription": "사진 또는 짧은 동영상(최대 15초)을 클릭하거나 드래그 앤 드롭하세요",
+        "newReportTitle": "새 보고서 제출",
+        "myReportsTitle": "제출된 보고서",
+        "sortBy": "정렬 기준",
+        "sortDate": "날짜",
+        "sortStatus": "상태",
+        "promptPlaceholder": "문제 설명 (예: '0:05에 부서진 그네', '움푹 패인 곳에 원 그리기')",
+        "pinLocation": "위치 고정",
+        "locationPinned": "위치 고정됨",
+        "submitButton": "보고서 제출",
+        "submitting": "제출 중...",
+        "status": {
+            "received": "접수됨",
+            "underreview": "검토 중",
+            "actioned": "조치 완료"
+        },
+        "card": {
+            "fullReport": "전체 보고서",
+            "submitted": "제출됨",
+            "location": "위치",
+            "pinned": "지도에 고정됨",
+            "reporter": "보고자",
+            "district": "지역"
+        },
+        "feedback": {
+            "prompt": "이 문제가 만족스럽게 해결되었습니까?",
+            "yes": "예",
+            "no": "아니요",
+            "thankYou": "피드백 감사합니다!",
+            "commentsPlaceholder": "선택적 의견 추가...",
+            "saveComments": "의견 저장",
+            "yourFeedback": "귀하의 피드백",
+            "yourComments": "귀하의 의견",
+            "satisfied": "만족",
+            "unsatisfied": "불만족"
+        },
+        "confirmation": {
+            "title": "보고서가 성공적으로 제출되었습니다!",
+            "description": "보고서가 처리 중입니다. '제출된 보고서'에서 상태를 추적할 수 있습니다.",
+            "summary": "제출 요약",
+            "locationPinned": "보고서에 위치가 성공적으로 고정되었습니다.",
+            "reportedBy": "보고자",
+            "district": "지역",
+            "contact": "연락처",
+            "doneButton": "완료"
+        },
+        "error": {
+            "videoTooLong": "동영상이 너무 깁니다. 15초 미만의 클립을 업로드하세요.",
+            "invalidFileType": "잘못된 파일 형식입니다. 이미지 또는 동영상 파일을 업로드하세요."
+        }
+    },
+    "login": {
+        "welcomeBack": "다시 오신 것을 환영합니다",
+        "createAccount": "계정 만들기",
+        "loginToContinue": "계속하려면 로그인하세요",
+        "joinCommunity": "시작하려면 커뮤니티에 가입하세요",
+        "fullName": "이름",
+        "email": "이메일 주소",
+        "password": "비밀번호",
+        "loginButton": "로그인",
+        "signupButton": "회원가입",
+        "noAccount": "계정이 없으신가요?",
+        "hasAccount": "이미 계정이 있으신가요?"
+    },
+    "map": {
+        "title": "보고서 세부 정보 제공",
+        "nameLabel": "보고자 이름",
+        "namePlaceholder": "예: 제인 도",
+        "districtLabel": "지역",
+        "districtPlaceholder": "예: 맨해튼 커뮤니티 디스트릭트 5",
+        "contactLabel": "이메일 / 전화번호",
+        "contactPlaceholder": "후속 질문용",
+        "optional": "선택 사항",
+        "locationLabel": "위치",
+        "useCurrentLocation": "현재 위치 사용",
+        "fetching": "가져오는 중...",
+        "latitude": "위도",
+        "longitude": "경도",
+        "cancel": "취소",
+        "confirm": "세부 정보 확인",
+        "error": {
+            "notSupported": "브라우저에서 위치 정보를 지원하지 않습니다.",
+            "unableToRetrieve": "위치를 가져올 수 없습니다. 위치 서비스를 활성화하고 다시 시도하세요.",
+            "nameRequired": "보고자 이름은 필수입니다.",
+            "districtRequired": "지역은 필수입니다.",
+            "latLngRequired": "위도와 경도를 입력하세요.",
+            "invalidLatLng": "유효한 숫자 위도와 경도를 입력하세요.",
+            "invalidLatRange": "위도는 -90에서 90 사이여야 합니다.",
+            "invalidLngRange": "경도는 -180에서 180 사이여야 합니다."
+        }
+    }
+}

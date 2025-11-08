@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Nutomeƒe ƒe Akɔtadɔwɔƒe",
+        "subtitle": "Wò mɔ tẽ na Duŋgã ZOHRAN ƒe dɔwɔƒe.",
+        "welcome": "Woezɔ, {name}",
+        "logout": "Do go",
+        "login": "Ge ɖe eme / Wɔ akawunti yeye"
+    },
+    "nav": {
+        "home": "Aƒeme",
+        "agenda": "Duŋgã ƒe Dɔwɔƒe ƒe Agendawo",
+        "report": "Ðo Mɔ̃ɖaŋununya ƒe Akɔntabubu ɖa",
+        "chat": "Nutomeƒe ƒe Dzeɖoɖo"
+    },
+    "welcomeBanner": {
+        "title": "Wò Gbe, Míaƒe Du ƒe Etsɔme",
+        "description": "Woezɔ loo ɖe New York City nɔlawo ƒe akɔtadɔwɔƒe si nye amesiame tɔ me. Se le ɖokuiwò me faa be nàna nyatakaka tso nutome kple du bliboa ƒe kuxiwo ŋu, nàlé ŋku ɖe agendawo ŋu, eye nàƒo nu tẽ kple Duŋgã Zohran ƒe dɔwɔƒe."
+    },
+    "welcomePage": {
+        "agendaTitle": "Duŋgã ƒe Dɔwɔƒe ƒe Agendawo",
+        "agendaDescription": "Kpɔ nu vevi siwo dzi Duŋgã ƒe dɔwɔƒea le dɔ wɔm le fifia, tso mɔ̃ɖaŋununyawo dzi yi amewo ƒe dedienɔnɔ dzi. Lé ŋku ɖe dɔwɔna siwo le edzi yim ƒe nɔnɔme ŋu.",
+        "reportTitle": "Ðo Mɔ̃ɖaŋununya ƒe Akɔntabubu ɖa",
+        "reportDescription": "Èkpɔ kuxi aɖe le wò nutomea? Ðo fotowo ɖa, ɖɔ kuxia, eye nàɖoe ɖa tẽ na du ƒe dɔwɔƒe si ku ɖe eŋu.",
+        "chatTitle": "Nutomeƒe ƒe Dzeɖoɖo",
+        "chatDescription": "Èle biabia aɖe ta dim alo nàdi be yeadzro nutomeŋutinunya aɖe mea? Ƒo nu kple Duŋgã ƒe dɔwɔƒe ƒe AI kpeɖeŋutɔ hena nyatakakawo xɔxɔ kple wò susuwo gblɔgblɔ.",
+        "announcementsTitle": "Nutomeƒe ƒe Gbeƒãɖeɖewo",
+        "newsletterTitle": "Nɔ Anyi Kple Nyatakakawo",
+        "newsletterDescription": "Wɔ míaƒe kwasiɖa sia kwasiɖa ƒe nyadzɔdzɔgbalẽa hena yeyewɔwɔwo le Duŋgã ƒe agenda kple nutomeƒe ƒe wɔnawo ŋu.",
+        "subscribeButton": "Wɔe",
+        "subscribeSuccess": "Akpe na wò ɖe wò akɔntabubu ta!",
+        "subscribePlaceholder": "Ŋlɔ wò email address",
+        "footer": "© {year} New York City Duŋgã Zohran Kwame Mamdani ƒe Dɔwɔƒe. Gomenɔamesiwo katã li."
+    },
+    "agenda": {
+        "title": "Duŋgã ƒe Dɔwɔƒe ƒe Agendawo",
+        "description": "Lé ŋku ɖe dɔwɔna veviwo ƒe ŋgɔyiyi ŋu le du bliboa me.",
+        "searchPlaceholder": "Di agendawo le woƒe tanyae alo numeɖeɖe nu...",
+        "noItems": "Nu aɖeke mesɔ kple wò didia o.",
+        "status": {
+            "underreview": "Le Eŋkume Kpɔm",
+            "inprogress": "Le Edzi Yim",
+            "completed": "Ewu enu"
+        }
+    },
+    "chat": {
+        "initialMessage": "Esiae nye New York City Duŋgã Zohran Mamdani ƒe dɔwɔƒe. Míele afisia be míase miaƒe dzitsitsiawo kple tamesusuwo na míaƒe du gã la tẽ. Nukae le wò susu me?",
+        "typing": "Duŋgã le nu ŋlɔm",
+        "you": "Wò",
+        "mayor": "Duŋgã",
+        "placeholder": "Ŋlɔ wò gbedasi na Duŋgã...",
+        "send": "Ðoe ɖa"
+    },
+    "report": {
+        "uploadTitle": "Ðo Wò Mɔ̃ɖaŋununya ƒe Akɔntabubu ɖa",
+        "uploadDescription": "Zi edzi alo he eye nàda foto alo video kpui aɖe (sekend 15 sɔŋ) ɖe afisia",
+        "newReportTitle": "Ðo Akɔntabubu Yeye ɖa",
+        "myReportsTitle": "Nye Akɔntabubu Siwo Meɖo ɖa",
+        "sortBy": "Tiae ɖe",
+        "sortDate": "Ŋkeke",
+        "sortStatus": "Nɔnɔme",
+        "promptPlaceholder": "Ðɔ kuxia (ɖk. 'aɖiba gbagbã le 0:05', 'wɔ goboɖo ƒo xlã do la')",
+        "pinLocation": "De dzesi Teƒe",
+        "locationPinned": "Teƒe la de dzesi",
+        "submitButton": "Ðo Akɔntabubu ɖa",
+        "submitting": "Eɖom ɖa...",
+        "status": {
+            "received": "Exɔ",
+            "underreview": "Le Eŋkume Kpɔm",
+            "actioned": "Wɔ dɔ le eŋu"
+        },
+        "card": {
+            "fullReport": "Akɔntabubu Bliboa",
+            "submitted": "Eɖoe ɖa",
+            "location": "Teƒe",
+            "pinned": "Ede dzesii le Map dzi",
+            "reporter": "Akɔntabula",
+            "district": "Nutome"
+        },
+        "feedback": {
+            "prompt": "Ðe wokpɔ kuxi sia gbɔ na wò dzidzemea?",
+            "yes": "Ɛ̃",
+            "no": "Ao",
+            "thankYou": "Akpe na wò ɖe wò nyatakaka ta!",
+            "commentsPlaceholder": "Kpe numeɖeɖe siwo mele vevie o ɖe eŋu...",
+            "saveComments": "Dzra Numeɖeɖewo ɖo",
+            "yourFeedback": "Wò Nyatakaka",
+            "yourComments": "Wò Numeɖeɖewo",
+            "satisfied": "Dzi dzɔam",
+            "unsatisfied": "Dzi medzɔam o"
+        },
+        "confirmation": {
+            "title": "Akɔntabubu la ɖo dzidzedzetɔe!",
+            "description": "Wole wò akɔntabubu la wɔm fifia. Àte ŋu alé ŋku ɖe eƒe nɔnɔme ŋu le \"Nye Akɔntabubu Siwo Meɖo ɖa\" te.",
+            "summary": "Nusiwo Woɖo ɖa ƒe Kpuie",
+            "locationPinned": "Teƒe la de dzesi le akɔntabubu la me dzidzedzetɔe.",
+            "reportedBy": "Eŋlɔ̃tɔe nye",
+            "district": "Nutome",
+            "contact": "Kadodo",
+            "doneButton": "Ewu enu"
+        },
+        "error": {
+            "videoTooLong": "Video la didi akpa. Meɖe kuku, ɖo video si le sekend 15 te ɖa.",
+            "invalidFileType": "Faɛl ƒe nɔnɔme masɔ. Meɖe kuku, ɖo foto alo video faɛl ɖa."
+        }
+    },
+    "login": {
+        "welcomeBack": "Woezɔ",
+        "createAccount": "Wɔ Wò Akawunti",
+        "loginToContinue": "Ge ɖe eme be nàtsɔe ayi edzi",
+        "joinCommunity": "Wɔ ɖeka kple habɔbɔa be nàdze egɔme",
+        "fullName": "Ŋkɔ Bliboa",
+        "email": "Email Address",
+        "password": "Nya ɣaɣla",
+        "loginButton": "Ge ɖe eme",
+        "signupButton": "Wɔ akawunti yeye",
+        "noAccount": "Akawunti aɖeke mele asiwòa?",
+        "hasAccount": "Èle akawunti aɖe xoxo?"
+    },
+    "map": {
+        "title": "Na Akɔntabubu ƒe Nyatakakawo",
+        "nameLabel": "Akɔntabula ƒe Ŋkɔ",
+        "namePlaceholder": "ɖk. Jane Doe",
+        "districtLabel": "Nutome",
+        "districtPlaceholder": "ɖk. Manhattan Nutome 5 lia",
+        "contactLabel": "Email / Telefonka",
+        "contactPlaceholder": "Hena biabia bubuwo",
+        "optional": "Menye aɖaŋuɖoɖo o",
+        "locationLabel": "Teƒe",
+        "useCurrentLocation": "Zã Teƒe Si Nèle Fifia",
+        "fetching": "Ele exɔm...",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "cancel": "Tee",
+        "confirm": "Do Nyatakakawo Kpɔ",
+        "error": {
+            "notSupported": "Wò browser medea alɔ geolocation o.",
+            "unableToRetrieve": "Míate ŋu axɔ wò nɔƒe o. Meɖe kuku, de teƒenɔƒe dɔwɔnawo dɔwɔƒe eye nàgbugbɔ ate kpɔ.",
+            "nameRequired": "Akɔntabula ƒe ŋkɔ hiã.",
+            "districtRequired": "Nutome hiã.",
+            "latLngRequired": "Meɖe kuku, ŋlɔ latitude kple longitude.",
+            "invalidLatLng": "Meɖe kuku, ŋlɔ latitude kple longitude siwo nye dzidzenu siwo sɔ.",
+            "invalidLatRange": "Latitude nɔ -90 kple 90 dome.",
+            "invalidLngRange": "Longitude nɔ -180 kple 180 dome."
+        }
+    }
+}

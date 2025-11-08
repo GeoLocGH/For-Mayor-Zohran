@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Community Engagement Platform",
+        "subtitle": "Your Direct Line to Mayor ZOHRAN's Office.",
+        "welcome": "Welcome, {name}",
+        "logout": "Logout",
+        "login": "Login / Sign Up"
+    },
+    "nav": {
+        "home": "Home",
+        "agenda": "Mayor's Office Agendas",
+        "report": "Submit Visual Report",
+        "chat": "Community Chat"
+    },
+    "welcomeBanner": {
+        "title": "Your Voice, Our City's Future",
+        "description": "Welcome to the official engagement platform for New York City Residents. Feel Free to Report Community and City wide issues, Track Agendas, and Connect directly with Mayor Zohran's office."
+    },
+    "welcomePage": {
+        "agendaTitle": "Mayor's Office Agendas",
+        "agendaDescription": "See the key priorities the Mayor's office is currently working on, from infrastructure to public safety. Track the status of active initiatives.",
+        "reportTitle": "Submit a Visual Report",
+        "reportDescription": "Spotted an issue in your community? Upload a photo, describe the problem, and submit it directly to the relevant city department.",
+        "chatTitle": "Community Chat",
+        "chatDescription": "Have a question or want to discuss a community topic? Engage with the Mayor's office AI assistant for information and to share your feedback.",
+        "announcementsTitle": "Community Announcements",
+        "newsletterTitle": "Stay Informed",
+        "newsletterDescription": "Subscribe to our weekly newsletter for updates on the Mayor's agenda and community events.",
+        "subscribeButton": "Subscribe",
+        "subscribeSuccess": "Thank you for subscribing!",
+        "subscribePlaceholder": "Enter your email address",
+        "footer": "© {year} New York City Mayor Zohran Kwame Mamdani's Office. All Rights Reserved."
+    },
+    "agenda": {
+        "title": "Mayor's Office Agendas",
+        "description": "Track the progress of key initiatives across the city.",
+        "searchPlaceholder": "Search agendas by title or description...",
+        "noItems": "No items match your search.",
+        "status": {
+            "underreview": "Under Review",
+            "inprogress": "In Progress",
+            "completed": "Completed"
+        }
+    },
+    "chat": {
+        "initialMessage": "This is New York City Mayor Zohran Mamdani's Office. We are here to listen directly to your concerns and ideas for our great city. What's on your mind?",
+        "typing": "The Mayor is typing",
+        "you": "You",
+        "mayor": "Mayor",
+        "placeholder": "Type your message to the Mayor...",
+        "send": "Send"
+    },
+    "report": {
+        "uploadTitle": "Upload Your Visual Report",
+        "uploadDescription": "Click or drag & drop a photo or short video (max 15s)",
+        "newReportTitle": "Submit a New Report",
+        "myReportsTitle": "My Submitted Reports",
+        "sortBy": "Sort by",
+        "sortDate": "Date",
+        "sortStatus": "Status",
+        "promptPlaceholder": "Describe issue (e.g., 'Broken swing at 0:05', 'Circle the pothole')",
+        "pinLocation": "Pin Location",
+        "locationPinned": "Location Pinned",
+        "submitButton": "Submit Report",
+        "submitting": "Submitting...",
+        "status": {
+            "received": "Received",
+            "underreview": "Under Review",
+            "actioned": "Actioned"
+        },
+        "card": {
+            "fullReport": "Full Report",
+            "submitted": "Submitted",
+            "location": "Location",
+            "pinned": "Pinned on Map",
+            "reporter": "Reporter",
+            "district": "District"
+        },
+        "feedback": {
+            "prompt": "Was this issue resolved to your satisfaction?",
+            "yes": "Yes",
+            "no": "No",
+            "thankYou": "Thank you for your feedback!",
+            "commentsPlaceholder": "Add optional comments...",
+            "saveComments": "Save Comments",
+            "yourFeedback": "Your Feedback",
+            "yourComments": "Your Comments",
+            "satisfied": "Satisfied",
+            "unsatisfied": "Unsatisfied"
+        },
+        "confirmation": {
+            "title": "Report Submitted Successfully!",
+            "description": "Your report is now being processed. You can track its status under \"My Submitted Reports\".",
+            "summary": "Submission Summary",
+            "locationPinned": "Location successfully pinned to the report.",
+            "reportedBy": "Reported by",
+            "district": "District",
+            "contact": "Contact",
+            "doneButton": "Done"
+        },
+        "error": {
+            "videoTooLong": "Video is too long. Please upload a clip under 15 seconds.",
+            "invalidFileType": "Invalid file type. Please upload an image or video file."
+        }
+    },
+    "login": {
+        "welcomeBack": "Welcome Back",
+        "createAccount": "Create Your Account",
+        "loginToContinue": "Log in to continue",
+        "joinCommunity": "Join the community to get started",
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "password": "Password",
+        "loginButton": "Log In",
+        "signupButton": "Sign Up",
+        "noAccount": "Don't have an account?",
+        "hasAccount": "Already have an account?"
+    },
+    "map": {
+        "title": "Provide Report Details",
+        "nameLabel": "Reporter's Name",
+        "namePlaceholder": "e.g., Jane Doe",
+        "districtLabel": "District",
+        "districtPlaceholder": "e.g., Manhattan Community District 5",
+        "contactLabel": "Email / Phone Number",
+        "contactPlaceholder": "For follow-up questions",
+        "optional": "Optional",
+        "locationLabel": "Location",
+        "useCurrentLocation": "Use Current Location",
+        "fetching": "Fetching...",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "cancel": "Cancel",
+        "confirm": "Confirm Details",
+        "error": {
+            "notSupported": "Geolocation is not supported by your browser.",
+            "unableToRetrieve": "Unable to retrieve your location. Please enable location services and try again.",
+            "nameRequired": "Reporter's name is required.",
+            "districtRequired": "District is required.",
+            "latLngRequired": "Please enter latitude and longitude.",
+            "invalidLatLng": "Please enter valid numeric latitude and longitude.",
+            "invalidLatRange": "Latitude must be between -90 and 90.",
+            "invalidLngRange": "Longitude must be between -180 and 180."
+        }
+    }
+}

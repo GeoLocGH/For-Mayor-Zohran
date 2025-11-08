@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "社区参与平台",
+        "subtitle": "您与市长佐兰办公室的直接联系。",
+        "welcome": "欢迎您，{name}",
+        "logout": "登出",
+        "login": "登录 / 注册"
+    },
+    "nav": {
+        "home": "首页",
+        "agenda": "市长办公室议程",
+        "report": "提交视觉报告",
+        "chat": "社区聊天"
+    },
+    "welcomeBanner": {
+        "title": "您的声音，我们城市的未来",
+        "description": "欢迎来到纽约市居民的官方参与平台。您可以随时报告社区和全市范围的问题、跟踪议程，并直接与市长佐兰的办公室联系。"
+    },
+    "welcomePage": {
+        "agendaTitle": "市长办公室议程",
+        "agendaDescription": "查看市长办公室目前正在处理的关键优先事项，从基础设施到公共安全。跟踪正在进行的倡议的状态。",
+        "reportTitle": "提交视觉报告",
+        "reportDescription": "在您的社区发现了问题？上传照片，描述问题，并直接提交给相关的市级部门。",
+        "chatTitle": "社区聊天",
+        "chatDescription": "有疑问或想讨论社区话题？与市长办公室的AI助手互动，获取信息并分享您的反馈。",
+        "announcementsTitle": "社区公告",
+        "newsletterTitle": "保持信息更新",
+        "newsletterDescription": "订阅我们的每周通讯，了解市长议程和社区活动的最新动态。",
+        "subscribeButton": "订阅",
+        "subscribeSuccess": "感谢您的订阅！",
+        "subscribePlaceholder": "输入您的电子邮件地址",
+        "footer": "© {year} 纽约市长佐兰·夸梅·曼达尼办公室。保留所有权利。"
+    },
+    "agenda": {
+        "title": "市长办公室议程",
+        "description": "跟踪全市关键倡议的进展情况。",
+        "searchPlaceholder": "按标题或描述搜索议程...",
+        "noItems": "没有与您搜索匹配的项目。",
+        "status": {
+            "underreview": "审查中",
+            "inprogress": "进行中",
+            "completed": "已完成"
+        }
+    },
+    "chat": {
+        "initialMessage": "这里是纽约市长佐兰·曼达尼的办公室。我们在这里直接听取您对我们伟大城市的担忧和想法。您有什么想法？",
+        "typing": "市长正在输入",
+        "you": "您",
+        "mayor": "市长",
+        "placeholder": "向市长输入您的消息...",
+        "send": "发送"
+    },
+    "report": {
+        "uploadTitle": "上传您的视觉报告",
+        "uploadDescription": "点击或拖放照片或短视频（最长15秒）",
+        "newReportTitle": "提交新报告",
+        "myReportsTitle": "我提交的报告",
+        "sortBy": "排序方式",
+        "sortDate": "日期",
+        "sortStatus": "状态",
+        "promptPlaceholder": "描述问题（例如，“0:05处的秋千坏了”，“圈出坑洼”）",
+        "pinLocation": "标注位置",
+        "locationPinned": "位置已标注",
+        "submitButton": "提交报告",
+        "submitting": "正在提交...",
+        "status": {
+            "received": "已收到",
+            "underreview": "审查中",
+            "actioned": "已处理"
+        },
+        "card": {
+            "fullReport": "完整报告",
+            "submitted": "已提交",
+            "location": "位置",
+            "pinned": "已在地图上标注",
+            "reporter": "报告人",
+            "district": "地区"
+        },
+        "feedback": {
+            "prompt": "这个问题是否已解决并令您满意？",
+            "yes": "是",
+            "no": "否",
+            "thankYou": "感谢您的反馈！",
+            "commentsPlaceholder": "添加可选评论...",
+            "saveComments": "保存评论",
+            "yourFeedback": "您的反馈",
+            "yourComments": "您的评论",
+            "satisfied": "满意",
+            "unsatisfied": "不满意"
+        },
+        "confirmation": {
+            "title": "报告提交成功！",
+            "description": "您的报告正在处理中。您可以在“我提交的报告”下跟踪其状态。",
+            "summary": "提交摘要",
+            "locationPinned": "已成功将位置标注到报告中。",
+            "reportedBy": "报告人",
+            "district": "地区",
+            "contact": "联系方式",
+            "doneButton": "完成"
+        },
+        "error": {
+            "videoTooLong": "视频太长。请上传短于15秒的片段。",
+            "invalidFileType": "无效的文件类型。请上传图像或视频文件。"
+        }
+    },
+    "login": {
+        "welcomeBack": "欢迎回来",
+        "createAccount": "创建您的账户",
+        "loginToContinue": "登录以继续",
+        "joinCommunity": "加入社区开始",
+        "fullName": "全名",
+        "email": "电子邮件地址",
+        "password": "密码",
+        "loginButton": "登录",
+        "signupButton": "注册",
+        "noAccount": "没有账户？",
+        "hasAccount": "已经有账户了？"
+    },
+    "map": {
+        "title": "提供报告详情",
+        "nameLabel": "报告人姓名",
+        "namePlaceholder": "例如，简·多伊",
+        "districtLabel": "地区",
+        "districtPlaceholder": "例如，曼哈顿社区区5",
+        "contactLabel": "电子邮件/电话号码",
+        "contactPlaceholder": "用于后续问题",
+        "optional": "可选",
+        "locationLabel": "位置",
+        "useCurrentLocation": "使用当前位置",
+        "fetching": "正在获取...",
+        "latitude": "纬度",
+        "longitude": "经度",
+        "cancel": "取消",
+        "confirm": "确认详情",
+        "error": {
+            "notSupported": "您的浏览器不支持地理位置。",
+            "unableToRetrieve": "无法获取您的位置。请启用位置服务后重试。",
+            "nameRequired": "报告人姓名是必需的。",
+            "districtRequired": "地区是必需的。",
+            "latLngRequired": "请输入纬度和经度。",
+            "invalidLatLng": "请输入有效的数字纬度和经度。",
+            "invalidLatRange": "纬度必须在-90到90之间。",
+            "invalidLngRange": "经度必须在-180到180之间。"
+        }
+    }
+}

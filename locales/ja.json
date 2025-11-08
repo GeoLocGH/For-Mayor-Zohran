@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "コミュニティエンゲージメントプラットフォーム",
+        "subtitle": "ゾーラン市長室への直通ライン。",
+        "welcome": "ようこそ、{name}さん",
+        "logout": "ログアウト",
+        "login": "ログイン / 新規登録"
+    },
+    "nav": {
+        "home": "ホーム",
+        "agenda": "市長室の課題",
+        "report": "ビジュアルレポートを提出",
+        "chat": "コミュニティチャット"
+    },
+    "welcomeBanner": {
+        "title": "あなたの声が、私たちの街の未来を創る",
+        "description": "ニューヨーク市民のための公式エンゲージメントプラットフォームへようこそ。コミュニティや市全体の問題の報告、課題の追跡、ゾーラン市長室との直接の連絡など、お気軽にご利用ください。"
+    },
+    "welcomePage": {
+        "agendaTitle": "市長室の課題",
+        "agendaDescription": "インフラから公安まで、市長室が現在取り組んでいる主要な優先事項をご覧ください。進行中の取り組みの状況を追跡できます。",
+        "reportTitle": "ビジュアルレポートを提出する",
+        "reportDescription": "お住まいの地域で問題を発見しましたか？写真をアップロードし、問題を説明して、関連する市当局に直接提出してください。",
+        "chatTitle": "コミュニティチャット",
+        "chatDescription": "質問がありますか、またはコミュニティの話題について議論したいですか？市長室のAIアシスタントと対話し、情報を得たり、フィードバックを共有したりできます。",
+        "announcementsTitle": "コミュニティからのお知らせ",
+        "newsletterTitle": "最新情報を入手",
+        "newsletterDescription": "市長の課題やコミュニティイベントに関する最新情報をお届けする週刊ニュースレターにご登録ください。",
+        "subscribeButton": "登録する",
+        "subscribeSuccess": "ご登録ありがとうございます！",
+        "subscribePlaceholder": "メールアドレスを入力してください",
+        "footer": "© {year} ニューヨーク市長ゾーラン・クワメ・マンダニ事務所。無断複写・転載を禁じます。"
+    },
+    "agenda": {
+        "title": "市長室の課題",
+        "description": "市内全域の主要な取り組みの進捗状況を追跡します。",
+        "searchPlaceholder": "タイトルまたは説明で課題を検索...",
+        "noItems": "検索に一致する項目はありません。",
+        "status": {
+            "underreview": "レビュー中",
+            "inprogress": "進行中",
+            "completed": "完了"
+        }
+    },
+    "chat": {
+        "initialMessage": "こちらはニューヨーク市長ゾーラン・マンダニ事務所です。私たちは、この素晴らしい街に対する皆様の懸念やアイデアを直接お伺いするためにここにいます。何かお考えですか？",
+        "typing": "市長が入力中",
+        "you": "あなた",
+        "mayor": "市長",
+        "placeholder": "市長へのメッセージを入力してください...",
+        "send": "送信"
+    },
+    "report": {
+        "uploadTitle": "ビジュアルレポートをアップロード",
+        "uploadDescription": "写真または短い動画（最大15秒）をクリックまたはドラッグ＆ドロップしてください",
+        "newReportTitle": "新しいレポートを提出",
+        "myReportsTitle": "提出済みのレポート",
+        "sortBy": "並べ替え",
+        "sortDate": "日付",
+        "sortStatus": "ステータス",
+        "promptPlaceholder": "問題を説明してください（例：「0:05の壊れたブランコ」、「ポットホールを丸で囲む」）",
+        "pinLocation": "場所をピン留め",
+        "locationPinned": "場所がピン留めされました",
+        "submitButton": "レポートを提出",
+        "submitting": "提出中...",
+        "status": {
+            "received": "受信済み",
+            "underreview": "レビュー中",
+            "actioned": "対応済み"
+        },
+        "card": {
+            "fullReport": "完全なレポート",
+            "submitted": "提出日時",
+            "location": "場所",
+            "pinned": "地図にピン留め済み",
+            "reporter": "報告者",
+            "district": "地区"
+        },
+        "feedback": {
+            "prompt": "この問題はご満足いただける形で解決されましたか？",
+            "yes": "はい",
+            "no": "いいえ",
+            "thankYou": "フィードバックありがとうございます！",
+            "commentsPlaceholder": "任意のコメントを追加...",
+            "saveComments": "コメントを保存",
+            "yourFeedback": "あなたのフィードバック",
+            "yourComments": "あなたのコメント",
+            "satisfied": "満足",
+            "unsatisfied": "不満"
+        },
+        "confirmation": {
+            "title": "レポートが正常に提出されました！",
+            "description": "レポートは現在処理中です。「提出済みのレポート」で状況を追跡できます。",
+            "summary": "提出内容の概要",
+            "locationPinned": "レポートに場所が正常にピン留めされました。",
+            "reportedBy": "報告者",
+            "district": "地区",
+            "contact": "連絡先",
+            "doneButton": "完了"
+        },
+        "error": {
+            "videoTooLong": "動画が長すぎます。15秒未満のクリップをアップロードしてください。",
+            "invalidFileType": "無効なファイルタイプです。画像または動画ファイルをアップロードしてください。"
+        }
+    },
+    "login": {
+        "welcomeBack": "おかえりなさい",
+        "createAccount": "アカウントを作成",
+        "loginToContinue": "続けるにはログインしてください",
+        "joinCommunity": "コミュニティに参加して始めましょう",
+        "fullName": "氏名",
+        "email": "メールアドレス",
+        "password": "パスワード",
+        "loginButton": "ログイン",
+        "signupButton": "新規登録",
+        "noAccount": "アカウントをお持ちでないですか？",
+        "hasAccount": "すでにアカウントをお持ちですか？"
+    },
+    "map": {
+        "title": "レポートの詳細を提供",
+        "nameLabel": "報告者の名前",
+        "namePlaceholder": "例：ジェーン・ドウ",
+        "districtLabel": "地区",
+        "districtPlaceholder": "例：マンハッタン・コミュニティ地区5",
+        "contactLabel": "メール / 電話番号",
+        "contactPlaceholder": "フォローアップの質問のため",
+        "optional": "任意",
+        "locationLabel": "場所",
+        "useCurrentLocation": "現在地を使用",
+        "fetching": "取得中...",
+        "latitude": "緯度",
+        "longitude": "経度",
+        "cancel": "キャンセル",
+        "confirm": "詳細を確認",
+        "error": {
+            "notSupported": "お使いのブラウザは位置情報をサポートしていません。",
+            "unableToRetrieve": "現在地を取得できません。位置情報サービスを有効にして、もう一度お試しください。",
+            "nameRequired": "報告者の名前は必須です。",
+            "districtRequired": "地区は必須です。",
+            "latLngRequired": "緯度と経度を入力してください。",
+            "invalidLatLng": "有効な数値の緯度と経度を入力してください。",
+            "invalidLatRange": "緯度は-90から90の間でなければなりません。",
+            "invalidLngRange": "経度は-180から180の間でなければなりません。"
+        }
+    }
+}

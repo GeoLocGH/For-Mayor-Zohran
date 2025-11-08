@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Platformu ngir Mbooloo mi Bokk",
+        "subtitle": "Sa yoonu njuppaakon ngir jókoo ak biroou Buur ZOHRAN.",
+        "welcome": "Dalal-jàmm, {name}",
+        "logout": "Génn",
+        "login": "Dugg / Bindu"
+    },
+    "nav": {
+        "home": "Kër",
+        "agenda": "Àjjanday Biroou Buur bi",
+        "report": "Yónnee Ab Raapooru Wonekaay",
+        "chat": "Waxtaanu Mbooloo mi"
+    },
+    "welcomeBanner": {
+        "title": "Sa Kàddu, Ëllëgu Sunu Dëkk",
+        "description": "Dalal-jàmm ci platformu ngir mbooloo mi bokk ngir waa dëkku New York. Yëgul ci sa bopp ngir segnal ay jafe-jafey mbooloo mi ak dëkk bi bépp, topp àjjanda yi, te jókoo tàkk ak biroou Buur Zohran."
+    },
+    "welcomePage": {
+        "agendaTitle": "Àjjanday Biroou Buur bi",
+        "agendaDescription": "Seetal li Buur bi jëmale kanam, ci anam yu melni wallu tabax ak kaaraange. Toppal ni liggéey yi di doxee.",
+        "reportTitle": "Yónnee Ab Raapooru Wonekaay",
+        "reportDescription": "Gis nga jafe-jafe ci sa gox? Duggalal ab nataal, waxal jafe-jafe bi, te yónnee ko tàkk ci kurelu dëkk bi mu war.",
+        "chatTitle": "Waxtaanu Mbooloo mi",
+        "chatDescription": "Am nga laaj walla bëgg nga waxtaanee benn mbiru mbooloo? Waxtaanal ak AI bu biroou Buur bi ngir am ay xibaar te wax sa xalaat.",
+        "announcementsTitle": "Ay Xibaari Mbooloo",
+        "newsletterTitle": "Toppatoo Xibaar yi",
+        "newsletterDescription": "Bindul ci sunu xibaarukaay bu ayu-bis ngir am ay yeesal ci àjjanday Buur bi ak ay ndajeey mbooloo.",
+        "subscribeButton": "Bindu",
+        "subscribeSuccess": "Jërëjëf ci sa bindu!",
+        "subscribePlaceholder": "Duggalal sa email",
+        "footer": "© {year} Biroou Buur bu Dëkku New York Zohran Kwame Mamdani. Ñoo moom ay àqoom yépp."
+    },
+    "agenda": {
+        "title": "Àjjanday Biroou Buur bi",
+        "description": "Toppal ni liggéey yu mag yi di doxee ci dëkk bi bépp.",
+        "searchPlaceholder": "Seetal ay àjjanda ci tur walla ci waxiin...",
+        "noItems": "Amul benn liy niróok li nga seet.",
+        "status": {
+            "underreview": "Ñu ngi koy seet",
+            "inprogress": "Mu ngi ci yoon",
+            "completed": "Jeex na"
+        }
+    },
+    "chat": {
+        "initialMessage": "Lii mooy biroou Buur bu Dëkku New York, Zohran Mamdani. Ñun ñoo ngi fi ngir déglu tàkk say soxla ak say xalaat ngir sunu dëkk bu mag bi. Looy xalaat?",
+        "typing": "Buur bi mu ngi bind",
+        "you": "Yow",
+        "mayor": "Buur",
+        "placeholder": "Bindal sa bataaxal Buur bi...",
+        "send": "Yónnee"
+    },
+    "report": {
+        "uploadTitle": "Duggalal sa Raapooru Wonekaay",
+        "uploadDescription": "Kilikal walla yëngalal ab nataal walla video bu gàtt (15s bu ëpp)",
+        "newReportTitle": "Yónnee Ab Raapoor bu Bees",
+        "myReportsTitle": "Samay Raapoor yu ma Yónnee",
+        "sortBy": "Raxee ci",
+        "sortDate": "Bés",
+        "sortStatus": "Ni mu Tolloo",
+        "promptPlaceholder": "Waxial jafe-jafe bi (msl: 'pàcc bu tooy ci 0:05', 'wëraleel kàmb bi')",
+        "pinLocation": "Wone Bërëb bi",
+        "locationPinned": "Bërëb bi Wone nañu ko",
+        "submitButton": "Yónnee Raapoor bi",
+        "submitting": "Mu ngi yónneeku...",
+        "status": {
+            "received": "Jot nañu ko",
+            "underreview": "Ñu ngi koy seet",
+            "actioned": "Jëf nañu ci"
+        },
+        "card": {
+            "fullReport": "Raapoor bu Mat",
+            "submitted": "Yónnee nañu ko",
+            "location": "Bërëb",
+            "pinned": "Wone nañu ko ci Kaart bi",
+            "reporter": "Kiy Raapoor",
+            "district": "Gox"
+        },
+        "feedback": {
+            "prompt": "Ndax jafe-jafe bi safara nañu ko ba nga bëgg?",
+            "yes": "Waaw",
+            "no": "Déedéet",
+            "thankYou": "Jërëjëf ci sa xalaat!",
+            "commentsPlaceholder": "Yokkal ay kàddu yu neex...",
+            "saveComments": "Denc Kàddu yi",
+            "yourFeedback": "Sa Xalaat",
+            "yourComments": "Say Kàddu",
+            "satisfied": "Bégg naa",
+            "unsatisfied": "Bégguma"
+        },
+        "confirmation": {
+            "title": "Raapoor bi yónneeku na ci jàmm!",
+            "description": "Léegi ñu ngi saytu sa raapoor. Mën nga topp ni mu tolloo ci \"Samay Raapoor yu ma Yónnee\".",
+            "summary": "Natti Yónnee bi",
+            "locationPinned": "Bërëb bi wone nañu ko ci raapoor bi ci jàmm.",
+            "reportedBy": "Ki ko raapoor",
+            "district": "Gox",
+            "contact": "Jókoo",
+            "doneButton": "Mat na"
+        },
+        "error": {
+            "videoTooLong": "Video bi gudd na lool. Duggalal benn bu gàtt (15s).",
+            "invalidFileType": "Fișe bi baaxul. Duggalal nataal walla video."
+        }
+    },
+    "login": {
+        "welcomeBack": "Dalal-jàmm",
+        "createAccount": "Ubbil Sa Kont",
+        "loginToContinue": "Duggal ngir wëy",
+        "joinCommunity": "Bokk ci mbooloo mi ngir tàmbali",
+        "fullName": "Tur wu Mat",
+        "email": "Email",
+        "password": "Baatu-jàll",
+        "loginButton": "Dugg",
+        "signupButton": "Bindu",
+        "noAccount": "Amoo kont?",
+        "hasAccount": "Am nga kont ba léegi?"
+    },
+    "map": {
+        "title": "Joxeel ay Leral ci Raapoor bi",
+        "nameLabel": "Turu Kiy Raapoor",
+        "namePlaceholder": "msl: Jane Doe",
+        "districtLabel": "Gox",
+        "districtPlaceholder": "msl: Goxu Mbooloo bu Manhattan 5",
+        "contactLabel": "Email / Nimero Telefon",
+        "contactPlaceholder": "Ngir ay laaj yu topp",
+        "optional": "Soo ko bëggee",
+        "locationLabel": "Bërëb",
+        "useCurrentLocation": "Jëfandikoo Bërëb bi ma Nekk",
+        "fetching": "Mu ngi jël...",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "cancel": "Neenal",
+        "confirm": "Dëggal Leral yi",
+        "error": {
+            "notSupported": "Sa browser nanguwul geolocalisation.",
+            "unableToRetrieve": "Mënuñoo jot sa bërëb. Tàllalal say parametari bërëb te esaat.",
+            "nameRequired": "Turu kiy raapoor dafa war.",
+            "districtRequired": "Gox bi dafa war.",
+            "latLngRequired": "Duggalal latitude ak longitude.",
+            "invalidLatLng": "Duggalal latitude ak longitude yu baax.",
+            "invalidLatRange": "Latitude bi war na nekk ci diggante -90 ak 90.",
+            "invalidLngRange": "Longitude bi war na nekk ci diggante -180 ak 180."
+        }
+    }
+}

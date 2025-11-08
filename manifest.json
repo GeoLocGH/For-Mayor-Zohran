@@ -1,0 +1,21 @@
+{
+  "short_name": "NYC Mayor",
+  "name": "Mayor Zohran Mamdani: Community Engagement Platform",
+  "description": "An engagement platform for NYC residents to submit issues, track the Mayor's agenda, and discuss community priorities directly with the Mayor's office.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f97316",
+  "background_color": "#0f172a"
+}

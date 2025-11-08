@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Jukwaa la Ushirikiano wa Jamii",
+        "subtitle": "Laini yako ya moja kwa moja kwa Ofisi ya Meya ZOHRAN.",
+        "welcome": "Karibu, {name}",
+        "logout": "Ondoka",
+        "login": "Ingia / Jisajili"
+    },
+    "nav": {
+        "home": "Mwanzo",
+        "agenda": "Ajenda za Ofisi ya Meya",
+        "report": "Wasilisha Ripoti ya Kuona",
+        "chat": "Soga ya Jamii"
+    },
+    "welcomeBanner": {
+        "title": "Sauti Yako, Mustakabali wa Jiji Letu",
+        "description": "Karibu kwenye jukwaa rasmi la ushirikiano kwa wakaazi wa Jiji la New York. Jisikie huru kuripoti masuala ya jamii na jiji zima, kufuatilia ajenda, na kuungana moja kwa moja na ofisi ya Meya Zohran."
+    },
+    "welcomePage": {
+        "agendaTitle": "Ajenda za Ofisi ya Meya",
+        "agendaDescription": "Angalia vipaumbele muhimu ambavyo ofisi ya meya inashughulikia kwa sasa, kutoka miundombinu hadi usalama wa umma. Fuatilia hali ya mipango inayoendelea.",
+        "reportTitle": "Wasilisha Ripoti ya Kuona",
+        "reportDescription": "Umeona tatizo katika jamii yako? Pakia picha, elezea tatizo, na uwasilishe moja kwa moja kwa idara husika ya jiji.",
+        "chatTitle": "Soga ya Jamii",
+        "chatDescription": "Una swali au unataka kujadili mada ya jamii? Wasiliana na msaidizi wa AI wa ofisi ya meya kwa habari na kutoa maoni yako.",
+        "announcementsTitle": "Matangazo ya Jamii",
+        "newsletterTitle": "Pata Taarifa",
+        "newsletterDescription": "Jiandikishe kwa jarida letu la kila wiki kwa masasisho kuhusu ajenda ya meya na matukio ya jamii.",
+        "subscribeButton": "Jisajili",
+        "subscribeSuccess": "Asante kwa kujisajili!",
+        "subscribePlaceholder": "Weka anwani yako ya barua pepe",
+        "footer": "© {year} Ofisi ya Meya wa Jiji la New York Zohran Kwame Mamdani. Haki zote zimehifadhiwa."
+    },
+    "agenda": {
+        "title": "Ajenda za Ofisi ya Meya",
+        "description": "Fuatilia maendeleo ya mipango muhimu kote jijini.",
+        "searchPlaceholder": "Tafuta ajenda kwa jina au maelezo...",
+        "noItems": "Hakuna vipengee vinavyolingana na utafutaji wako.",
+        "status": {
+            "underreview": "Inapitiwa",
+            "inprogress": "Inaendelea",
+            "completed": "Imekamilika"
+        }
+    },
+    "chat": {
+        "initialMessage": "Hii ni Ofisi ya Meya wa Jiji la New York Zohran Mamdani. Tuko hapa kusikiliza moja kwa moja wasiwasi na maoni yako kwa jiji letu kuu. Unafikiria nini?",
+        "typing": "Meya anaandika",
+        "you": "Wewe",
+        "mayor": "Meya",
+        "placeholder": "Andika ujumbe wako kwa Meya...",
+        "send": "Tuma"
+    },
+    "report": {
+        "uploadTitle": "Pakia Ripoti yako ya Kuona",
+        "uploadDescription": "Bofya au buruta na uangushe picha au video fupi (isizidi sekunde 15)",
+        "newReportTitle": "Wasilisha Ripoti Mpya",
+        "myReportsTitle": "Ripoti Zangu Zilizowasilishwa",
+        "sortBy": "Panga kwa",
+        "sortDate": "Tarehe",
+        "sortStatus": "Hali",
+        "promptPlaceholder": "Elezea tatizo (k.m., 'Bembea iliyovunjika saa 0:05', 'Zungushia duara shimo')",
+        "pinLocation": "Weka Mahali",
+        "locationPinned": "Mahali Pamewekwa",
+        "submitButton": "Wasilisha Ripoti",
+        "submitting": "Inawasilisha...",
+        "status": {
+            "received": "Imepokelewa",
+            "underreview": "Inapitiwa",
+            "actioned": "Hatua imechukuliwa"
+        },
+        "card": {
+            "fullReport": "Ripoti Kamili",
+            "submitted": "Imewasilishwa",
+            "location": "Mahali",
+            "pinned": "Pamewekwa kwenye Ramani",
+            "reporter": "Mtoa Ripoti",
+            "district": "Wilaya"
+        },
+        "feedback": {
+            "prompt": "Je, suala hili lilitatuliwa kwa kuridhisha?",
+            "yes": "Ndio",
+            "no": "Hapana",
+            "thankYou": "Asante kwa maoni yako!",
+            "commentsPlaceholder": "Ongeza maoni ya hiari...",
+            "saveComments": "Hifadhi Maoni",
+            "yourFeedback": "Maoni Yako",
+            "yourComments": "Maoni Yako",
+            "satisfied": "Nimeridhika",
+            "unsatisfied": "Sijaridhika"
+        },
+        "confirmation": {
+            "title": "Ripoti Imewasilishwa kwa Mafanikio!",
+            "description": "Ripoti yako inashughulikiwa sasa. Unaweza kufuatilia hali yake chini ya \"Ripoti Zangu Zilizowasilishwa\".",
+            "summary": "Muhtasari wa Uwasilishaji",
+            "locationPinned": "Mahali pamewekwa kwa mafanikio kwenye ripoti.",
+            "reportedBy": "Imeripotiwa na",
+            "district": "Wilaya",
+            "contact": "Mawasiliano",
+            "doneButton": "Imekamilika"
+        },
+        "error": {
+            "videoTooLong": "Video ni ndefu sana. Tafadhali pakia klipu chini ya sekunde 15.",
+            "invalidFileType": "Aina ya faili si sahihi. Tafadhali pakia faili ya picha au video."
+        }
+    },
+    "login": {
+        "welcomeBack": "Karibu Tena",
+        "createAccount": "Fungua Akaunti Yako",
+        "loginToContinue": "Ingia ili uendelee",
+        "joinCommunity": "Jiunge na jamii ili uanze",
+        "fullName": "Jina Kamili",
+        "email": "Anwani ya Barua Pepe",
+        "password": "Nenosiri",
+        "loginButton": "Ingia",
+        "signupButton": "Jisajili",
+        "noAccount": "Huna akaunti?",
+        "hasAccount": "Tayari una akaunti?"
+    },
+    "map": {
+        "title": "Toa Maelezo ya Ripoti",
+        "nameLabel": "Jina la Mtoa Ripoti",
+        "namePlaceholder": "k.m., Jane Doe",
+        "districtLabel": "Wilaya",
+        "districtPlaceholder": "k.m., Wilaya ya Jamii ya Manhattan 5",
+        "contactLabel": "Barua Pepe / Nambari ya Simu",
+        "contactPlaceholder": "Kwa maswali ya ufuatiliaji",
+        "optional": "Hiari",
+        "locationLabel": "Mahali",
+        "useCurrentLocation": "Tumia Mahali pa Sasa",
+        "fetching": "Inaleta...",
+        "latitude": "Latitudo",
+        "longitude": "Longitudo",
+        "cancel": "Ghairi",
+        "confirm": "Thibitisha Maelezo",
+        "error": {
+            "notSupported": "Kijiografia haitumiki na kivinjari chako.",
+            "unableToRetrieve": "Imeshindwa kupata eneo lako. Tafadhali washa huduma za eneo na ujaribu tena.",
+            "nameRequired": "Jina la mtoa ripoti linahitajika.",
+            "districtRequired": "Wilaya inahitajika.",
+            "latLngRequired": "Tafadhali weka latitudo na longitudo.",
+            "invalidLatLng": "Tafadhali weka latitudo na longitudo halali za nambari.",
+            "invalidLatRange": "Latitudo lazima iwe kati ya -90 na 90.",
+            "invalidLngRange": "Longitudo lazima iwe kati ya -180 na 180."
+        }
+    }
+}

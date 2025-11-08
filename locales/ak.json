@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Nkurobɔ Mu Nkitahodi Fapem",
+        "subtitle": "Wo kwan tẽẽ a ɛkɔ Mayor ZOHRAN adwumayɛbea.",
+        "welcome": "Akwaaba, {name}",
+        "logout": "Pue",
+        "login": "Kɔ mu / Kyerɛw wo din"
+    },
+    "nav": {
+        "home": "Ofie",
+        "agenda": "Mayor Adwumayɛbea no Agenda ahorow",
+        "report": "Fa Anisoadehu ho Amanneɛbɔ Kɔma",
+        "chat": "Nkurobɔ Mu Nkitahodi"
+    },
+    "welcomeBanner": {
+        "title": "Wo Nne, Yɛn Kurow no Daakye",
+        "description": "Akwaaba aba New York Kurow mufo nkitahodi fapem a ɛyɛ aban de no so. Te nka sɛ wubetumi abɔ Nkurobɔ ne Kurow no nyinaa mu nsɛm ho amanneɛ, adi Agenda akyi, na wo ne Mayor Zohran adwumayɛbea adi nkitaho tẽẽ."
+    },
+    "welcomePage": {
+        "agendaTitle": "Mayor Adwumayɛbea no Agenda ahorow",
+        "agendaDescription": "Hwɛ nneɛma a ehia paa a Mayor adwumayɛbea no reyɛ ho adwuma mprempren, efi akwan ne nneɛma a wɔde bɛyɛ adwuma so kosi ɔmanfo ahobammɔ so. Di nnwuma a ɛrekɔ so no akyi.",
+        "reportTitle": "Fa Anisoadehu ho Amanneɛbɔ Kɔma",
+        "reportDescription": "Woahu ɔhaw bi wɔ wo mpɔtam? Fa mfonini bi gu so, kyerɛkyerɛ ɔhaw no mu, na fa kɔma kurow no dwumadibea a ɛfa ho no tẽẽ.",
+        "chatTitle": "Nkurobɔ Mu Nkitahodi",
+        "chatDescription": "Wowɔ asɛmmisa bi anaasɛ wopɛ sɛ wususuw nkurobɔ mu asɛm bi ho? Fa wo ho hyɛ Mayor adwumayɛbea no AI boafo no mu na nya nsɛm na kyɛ w'adwenem.",
+        "announcementsTitle": "Nkurobɔ Mu Nkaebɔ",
+        "newsletterTitle": "Gye Nsɛm Foforo",
+        "newsletterDescription": "Kyerɛw wo din ma yɛn nnawɔtwe nkrataa krataa no na nya nsɛm foforo fa Mayor no agenda ne nkurobɔ mu nnwuma ho.",
+        "subscribeButton": "Kyerɛw wo din",
+        "subscribeSuccess": "Yɛda wo ase sɛ woakyerɛw wo din!",
+        "subscribePlaceholder": "Hyɛ wo email address mu",
+        "footer": "© {year} New York Kurow Mayor Zohran Kwame Mamdani Adwumayɛbea. Hokwan nyinaa yɛ wɔn dea."
+    },
+    "agenda": {
+        "title": "Mayor Adwumayɛbea no Agenda ahorow",
+        "description": "Di nnwuma atitiriw a ɛrekɔ so wɔ kurow no mu nyinaa no akyi.",
+        "searchPlaceholder": "Hwehwɛ agenda ahorow denam asɛmti anaa nkyerɛkyerɛmu so...",
+        "noItems": "Ade biara nni hɔ a ɛne wo hwehwɛ no hyia.",
+        "status": {
+            "underreview": "Wɔrehwɛ mu",
+            "inprogress": "Ɛrekɔ so",
+            "completed": "Wɔawie"
+        }
+    },
+    "chat": {
+        "initialMessage": "Eyi ne New York Kurow Mayor Zohran Mamdani adwumayɛbea. Yɛwɔ ha sɛ yebetie mo haw ne mo adwenkyerɛ a ɛfa yɛn kurow kɛse yi ho tẽẽ. Dɛn na ɛwɔ w'adwenem?",
+        "typing": "Mayor no rekyerɛw",
+        "you": "Wo",
+        "mayor": "Mayor",
+        "placeholder": "Kyerɛw wo nkra kɔma Mayor no...",
+        "send": "Mena"
+    },
+    "report": {
+        "uploadTitle": "Fa W'anisoadehu ho Amanneɛbɔ Gu So",
+        "uploadDescription": "Mia so anaasɛ twe na gyae mfonini anaa video tiawa bi (sɛkɛn 15 kɛkɛ)",
+        "newReportTitle": "Fa Amanneɛbɔ Foforo Kɔma",
+        "myReportsTitle": "Amanneɛbɔ a Mede Akɔma",
+        "sortBy": "Yɛ no sɛnea",
+        "sortDate": "Da",
+        "sortStatus": "Tebea",
+        "promptPlaceholder": "Kyerɛkyerɛ ɔhaw no mu (sɛ nhwɛso no 'agoru a abubu wɔ 0:05', 'yɛ tokuru no ho biribiri')",
+        "pinLocation": "Si Beae a Ɛwɔ So Dua",
+        "locationPinned": "Beae a Wɔasi So Dua",
+        "submitButton": "Fa Amanneɛbɔ Kɔma",
+        "submitting": "Wɔde rekɔma...",
+        "status": {
+            "received": "Wɔanya",
+            "underreview": "Wɔrehwɛ mu",
+            "actioned": "Wɔayɛ ho biribi"
+        },
+        "card": {
+            "fullReport": "Amanneɛbɔ a Edi Mu",
+            "submitted": "Wɔde kɔmae",
+            "location": "Beae",
+            "pinned": "Wɔasi so dua wɔ Asase mfonini so",
+            "reporter": "Ɔmannifo",
+            "district": "Mantamu"
+        },
+        "feedback": {
+            "prompt": "Wɔasiesie asɛm yi ama w'ani agye anaa?",
+            "yes": "Aane",
+            "no": "Dabi",
+            "thankYou": "Yɛda wo ase wɔ w'adwenkyerɛ ho!",
+            "commentsPlaceholder": "Fa nsɛm a wopɛ ka ho...",
+            "saveComments": "Sie Nsɛm",
+            "yourFeedback": "W'adwenkyerɛ",
+            "yourComments": "Wo Nsɛm",
+            "satisfied": "M'ani agye",
+            "unsatisfied": "M'ani nnye"
+        },
+        "confirmation": {
+            "title": "Wɔde Amanneɛbɔ no Akɔma Yiye!",
+            "description": "Wɔreyɛ w'amanneɛbɔ no ho adwuma mprempren. Wubetumi adi n'tebea akyi wɔ \"Amanneɛbɔ a Mede Akɔma\" ase.",
+            "summary": "Nneɛma a Wɔde Kɔmae no Nsɛm a Wɔaboaboa Ano",
+            "locationPinned": "Wɔde beae no asi amanneɛbɔ no so dua yiye.",
+            "reportedBy": "Amanneɛbɔfo",
+            "district": "Mantamu",
+            "contact": "Nkitahodi",
+            "doneButton": "Wɔawie"
+        },
+        "error": {
+            "videoTooLong": "Video no ware dodo. Yɛsrɛ wo fa video a ennu sɛkɛn 15 gu so.",
+            "invalidFileType": "Faele no su nyɛ. Yɛsrɛ wo fa mfonini anaa video faele gu so."
+        }
+    },
+    "login": {
+        "welcomeBack": "Akwaaba San",
+        "createAccount": "Yɛ Wo Kontabuo",
+        "loginToContinue": "Kɔ mu na ama woatumi akɔ so",
+        "joinCommunity": "Fa wo ho kɔbɔ kuw no mu na hyɛ ase",
+        "fullName": "Din a Edi Mu",
+        "email": "Email Address",
+        "password": "Ahintasɛm",
+        "loginButton": "Kɔ mu",
+        "signupButton": "Kyerɛw wo din",
+        "noAccount": "Wonni kontabuo?",
+        "hasAccount": "Wowɔ kontabuo dedaw?"
+    },
+    "map": {
+        "title": "Ma Amanneɛbɔ no ho Nsɛm a Ɛkɔ Akyiri",
+        "nameLabel": "Ɔmannifo no Din",
+        "namePlaceholder": "sɛ nhwɛso no Jane Doe",
+        "districtLabel": "Mantamu",
+        "districtPlaceholder": "sɛ nhwɛso no Manhattan Community District 5",
+        "contactLabel": "Email / Telefon Nɔma",
+        "contactPlaceholder": "Sɛ wopɛ sɛ wubisa nsɛm a ɛkɔ akyiri a",
+        "optional": "Sɛ wopɛ a",
+        "locationLabel": "Beae",
+        "useCurrentLocation": "Fa Mprempren Beae a Wowɔ no Di Dwuma",
+        "fetching": "Wɔregye...",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "cancel": "Twa mu",
+        "confirm": "Si Nsɛm no So Dua",
+        "error": {
+            "notSupported": "Wo browser no ntumi nyɛ beae a wowɔ ho adwuma.",
+            "unableToRetrieve": "Yentumi nyaa beae a wowɔ no. Yɛsrɛ wo ma beae a wowɔ ho nnwuma no nyɛ adwuma na san bɔ mmɔden.",
+            "nameRequired": "Ɛsɛ sɛ ɔmannifo no din ba.",
+            "districtRequired": "Ɛsɛ sɛ mantam no ba.",
+            "latLngRequired": "Yɛsrɛ wo hyɛ latitude ne longitude mu.",
+            "invalidLatLng": "Yɛsrɛ wo hyɛ latitude ne longitude a ɛyɛ nɔma a ɛteɛ mu.",
+            "invalidLatRange": "Ɛsɛ sɛ latitude no yɛ -90 ne 90 ntam.",
+            "invalidLngRange": "Ɛsɛ sɛ longitude no yɛ -180 ne 180 ntam."
+        }
+    }
+}

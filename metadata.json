@@ -1,0 +1,7 @@
+{
+  "name": "Mayor Zohran's App",
+  "description": "This is an official community engagement App platform for New York City Residents to Feel Free to Report Communities and City wide issues, by submitting city infrastructure issues with picture and videos, track Agendas, and discuss urgent community priorities and matters directly with the Mayor ZOHRAN's office. No more bureaucracy.\n",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

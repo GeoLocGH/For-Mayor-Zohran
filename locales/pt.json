@@ -1,0 +1,147 @@
+
+{
+    "header": {
+        "title": "Plataforma de Engajamento Comunitário",
+        "subtitle": "Sua linha direta com o Gabinete do Prefeito ZOHRAN.",
+        "welcome": "Bem-vindo, {name}",
+        "logout": "Sair",
+        "login": "Login / Cadastre-se"
+    },
+    "nav": {
+        "home": "Início",
+        "agenda": "Agendas do Gabinete do Prefeito",
+        "report": "Enviar Relatório Visual",
+        "chat": "Chat da Comunidade"
+    },
+    "welcomeBanner": {
+        "title": "Sua Voz, o Futuro da Nossa Cidade",
+        "description": "Bem-vindo à plataforma oficial de engajamento para os residentes da cidade de Nova York. Sinta-se à vontade para relatar problemas da comunidade e de toda a cidade, acompanhar as agendas e conectar-se diretamente com o gabinete do Prefeito Zohran."
+    },
+    "welcomePage": {
+        "agendaTitle": "Agendas do Gabinete do Prefeito",
+        "agendaDescription": "Veja as principais prioridades em que o gabinete do Prefeito está trabalhando, desde infraestrutura até segurança pública. Acompanhe o status das iniciativas ativas.",
+        "reportTitle": "Enviar um Relatório Visual",
+        "reportDescription": "Viu um problema em sua comunidade? Faça o upload de uma foto, descreva o problema e envie-o diretamente para o departamento municipal relevante.",
+        "chatTitle": "Chat da Comunidade",
+        "chatDescription": "Tem uma pergunta ou quer discutir um tópico da comunidade? Interaja com o assistente de IA do gabinete do Prefeito para obter informações e compartilhar seu feedback.",
+        "announcementsTitle": "Anúncios da Comunidade",
+        "newsletterTitle": "Mantenha-se Informado",
+        "newsletterDescription": "Assine nossa newsletter semanal para atualizações sobre a agenda do Prefeito e eventos comunitários.",
+        "subscribeButton": "Inscrever-se",
+        "subscribeSuccess": "Obrigado por se inscrever!",
+        "subscribePlaceholder": "Digite seu endereço de e-mail",
+        "footer": "© {year} Gabinete do Prefeito da Cidade de Nova York Zohran Kwame Mamdani. Todos os direitos reservados."
+    },
+    "agenda": {
+        "title": "Agendas do Gabinete do Prefeito",
+        "description": "Acompanhe o progresso das principais iniciativas em toda a cidade.",
+        "searchPlaceholder": "Pesquisar agendas por título ou descrição...",
+        "noItems": "Nenhum item corresponde à sua pesquisa.",
+        "status": {
+            "underreview": "Em Análise",
+            "inprogress": "Em Andamento",
+            "completed": "Concluído"
+        }
+    },
+    "chat": {
+        "initialMessage": "Este é o Gabinete do Prefeito da Cidade de Nova York, Zohran Mamdani. Estamos aqui para ouvir diretamente suas preocupações e ideias para nossa grande cidade. O que você tem em mente?",
+        "typing": "O Prefeito está digitando",
+        "you": "Você",
+        "mayor": "Prefeito",
+        "placeholder": "Digite sua mensagem para o Prefeito...",
+        "send": "Enviar"
+    },
+    "report": {
+        "uploadTitle": "Faça o Upload do Seu Relatório Visual",
+        "uploadDescription": "Clique ou arraste e solte uma foto ou vídeo curto (máx. 15s)",
+        "newReportTitle": "Enviar um Novo Relatório",
+        "myReportsTitle": "Meus Relatórios Enviados",
+        "sortBy": "Ordenar por",
+        "sortDate": "Data",
+        "sortStatus": "Status",
+        "promptPlaceholder": "Descreva o problema (ex: 'Balanço quebrado às 0:05', 'Circule o buraco')",
+        "pinLocation": "Marcar Localização",
+        "locationPinned": "Localização Marcada",
+        "submitButton": "Enviar Relatório",
+        "submitting": "Enviando...",
+        "status": {
+            "received": "Recebido",
+            "underreview": "Em Análise",
+            "actioned": "Ação Tomada"
+        },
+        "card": {
+            "fullReport": "Relatório Completo",
+            "submitted": "Enviado",
+            "location": "Localização",
+            "pinned": "Marcado no Mapa",
+            "reporter": "Relator",
+            "district": "Distrito"
+        },
+        "feedback": {
+            "prompt": "Este problema foi resolvido a sua satisfação?",
+            "yes": "Sim",
+            "no": "Não",
+            "thankYou": "Obrigado pelo seu feedback!",
+            "commentsPlaceholder": "Adicione comentários opcionais...",
+            "saveComments": "Salvar Comentários",
+            "yourFeedback": "Seu Feedback",
+            "yourComments": "Seus Comentários",
+            "satisfied": "Satisfeito",
+            "unsatisfied": "Insatisfeito"
+        },
+        "confirmation": {
+            "title": "Relatório Enviado com Sucesso!",
+            "description": "Seu relatório está sendo processado. Você pode acompanhar o status em \"Meus Relatórios Enviados\".",
+            "summary": "Resumo do Envio",
+            "locationPinned": "Localização marcada com sucesso no relatório.",
+            "reportedBy": "Relatado por",
+            "district": "Distrito",
+            "contact": "Contato",
+            "doneButton": "Concluído"
+        },
+        "error": {
+            "videoTooLong": "O vídeo é muito longo. Por favor, envie um clipe com menos de 15 segundos.",
+            "invalidFileType": "Tipo de arquivo inválido. Por favor, envie um arquivo de imagem ou vídeo."
+        }
+    },
+    "login": {
+        "welcomeBack": "Bem-vindo de volta",
+        "createAccount": "Crie Sua Conta",
+        "loginToContinue": "Faça login para continuar",
+        "joinCommunity": "Junte-se à comunidade para começar",
+        "fullName": "Nome Completo",
+        "email": "Endereço de E-mail",
+        "password": "Senha",
+        "loginButton": "Entrar",
+        "signupButton": "Cadastre-se",
+        "noAccount": "Não tem uma conta?",
+        "hasAccount": "Já tem uma conta?"
+    },
+    "map": {
+        "title": "Forneça os Detalhes do Relatório",
+        "nameLabel": "Nome do Relator",
+        "namePlaceholder": "ex: Jane Doe",
+        "districtLabel": "Distrito",
+        "districtPlaceholder": "ex: Distrito Comunitário 5 de Manhattan",
+        "contactLabel": "E-mail / Número de Telefone",
+        "contactPlaceholder": "Para perguntas de acompanhamento",
+        "optional": "Opcional",
+        "locationLabel": "Localização",
+        "useCurrentLocation": "Usar Localização Atual",
+        "fetching": "Obtendo...",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar Detalhes",
+        "error": {
+            "notSupported": "A geolocalização não é suportada pelo seu navegador.",
+            "unableToRetrieve": "Não foi possível obter sua localização. Por favor, ative os serviços de localização e tente novamente.",
+            "nameRequired": "O nome do relator é obrigatório.",
+            "districtRequired": "O distrito é obrigatório.",
+            "latLngRequired": "Por favor, insira a latitude e a longitude.",
+            "invalidLatLng": "Por favor, insira uma latitude e longitude numéricas válidas.",
+            "invalidLatRange": "A latitude deve estar entre -90 e 90.",
+            "invalidLngRange": "A longitude deve estar entre -180 e 180."
+        }
+    }
+}
