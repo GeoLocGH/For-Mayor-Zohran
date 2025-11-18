@@ -23,7 +23,7 @@
         "reportTitle": "Soumettre un rapport visuel",
         "reportDescription": "Vous avez repéré un problème dans votre communauté ? Téléchargez une photo, décrivez le problème et soumettez-le directement au service municipal concerné.",
         "chatTitle": "Discussion communautaire",
-        "chatDescription": "Vous avez une question ou souhaitez discuter d'un sujet communautaire ? Interagissez avec l'assistant IA du bureau du maire pour obtenir des informations et partager vos commentaires.",
+        "chatDescription": "Rejoignez la conversation avec d'autres résidents de New York pour discuter de sujets communautaires et partager vos commentaires.",
         "announcementsTitle": "Annonces de la communauté",
         "newsletterTitle": "Restez informé",
         "newsletterDescription": "Abonnez-vous à notre newsletter hebdomadaire pour des mises à jour sur l'agenda du maire et les événements communautaires.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "Ceci est le bureau du maire de New York, Zohran Mamdani. Nous sommes ici pour écouter directement vos préoccupations et vos idées pour notre grande ville. Qu'avez-vous en tête ?",
-        "typing": "Le maire est en train d'écrire",
+        "initialMessage": "Bienvenue sur le chat communautaire ! C'est un espace où tous les résidents peuvent discuter de sujets importants. Veuillez être respectueux envers les autres.",
         "you": "Vous",
-        "mayor": "Maire",
-        "placeholder": "Tapez votre message au maire...",
+        "placeholder": "Rejoignez la conversation...",
         "send": "Envoyer"
     },
     "report": {

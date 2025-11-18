@@ -23,7 +23,7 @@
         "reportTitle": "Soo Gudbi Warbixin Muuqaal ah",
         "reportDescription": "Miyaad aragtay arrin ka jirta bulshadaada? Soo geli sawir, sharax dhibaatada, oo si toos ah ugu gudbi waaxda magaalada ee ay khusayso.",
         "chatTitle": "Wadahadalka Bulshada",
-        "chatDescription": "Su'aal ma qabtaa ama ma rabtaa inaad ka hadasho mowduuc bulsho? La xiriir kaaliyaha AI ee xafiiska Duqa Magaalada si aad u hesho macluumaad oo aad ula wadaagto ra'yigaaga.",
+        "chatDescription": "Ku soo biir wadahadalka dadka kale ee deggan NYC si aad uga hadashaan mowduucyada bulshada oo aad ula wadaagtaan ra'yigiina.",
         "announcementsTitle": "Ogeysiisyada Bulshada",
         "newsletterTitle": "La Soco Wararka",
         "newsletterDescription": "Iska qor warsideheena toddobaadlaha ah si aad u hesho wararkii ugu dambeeyay ee ku saabsan ajandaha Duqa Magaalada iyo dhacdooyinka bulshada.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "Kani waa Xafiiska Duqa Magaalada New York Zohran Mamdani. Waxaan halkaan u joognaa inaan si toos ah u dhageysano welwelkaaga iyo fikradahaaga ku aaddan magaaladeena weyn. Maxaa maskaxdaada ku jira?",
-        "typing": "Duqa wuu qorayaa",
+        "initialMessage": "Ku soo dhawoow Wadahadalka Bulshada! Kani waa meel ay dhammaan dadka degani kaga hadlaan mowduucyo muhiim ah. Fadlan ixtiraam dadka kale.",
         "you": "Adiga",
-        "mayor": "Duqa",
-        "placeholder": "Fariintaada u qor Duqa...",
+        "placeholder": "Ku soo biir wadahadalka...",
         "send": "Dir"
     },
     "report": {

@@ -23,7 +23,7 @@
         "reportTitle": "Yónnee Ab Raapooru Wonekaay",
         "reportDescription": "Gis nga jafe-jafe ci sa gox? Duggalal ab nataal, waxal jafe-jafe bi, te yónnee ko tàkk ci kurelu dëkk bi mu war.",
         "chatTitle": "Waxtaanu Mbooloo mi",
-        "chatDescription": "Am nga laaj walla bëgg nga waxtaanee benn mbiru mbooloo? Waxtaanal ak AI bu biroou Buur bi ngir am ay xibaar te wax sa xalaat.",
+        "chatDescription": "Bokkul ci waxtaan bi ak yeneen waa NYC ngir waxtaanee ay mbiri mbooloo te wax sa xalaat.",
         "announcementsTitle": "Ay Xibaari Mbooloo",
         "newsletterTitle": "Toppatoo Xibaar yi",
         "newsletterDescription": "Bindul ci sunu xibaarukaay bu ayu-bis ngir am ay yeesal ci àjjanday Buur bi ak ay ndajeey mbooloo.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "Lii mooy biroou Buur bu Dëkku New York, Zohran Mamdani. Ñun ñoo ngi fi ngir déglu tàkk say soxla ak say xalaat ngir sunu dëkk bu mag bi. Looy xalaat?",
-        "typing": "Buur bi mu ngi bind",
+        "initialMessage": "Dalal-jàmm ci Waxtaanu Mbooloo mi! Fii mooy bërëbu ñépp di waxtaanee mbir yu am solo. Buñu wormaalante.",
         "you": "Yow",
-        "mayor": "Buur",
-        "placeholder": "Bindal sa bataaxal Buur bi...",
+        "placeholder": "Bokkul ci waxtaan bi...",
         "send": "Yónnee"
     },
     "report": {

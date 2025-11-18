@@ -23,7 +23,7 @@
         "reportTitle": "Ðo Mɔ̃ɖaŋununya ƒe Akɔntabubu ɖa",
         "reportDescription": "Èkpɔ kuxi aɖe le wò nutomea? Ðo fotowo ɖa, ɖɔ kuxia, eye nàɖoe ɖa tẽ na du ƒe dɔwɔƒe si ku ɖe eŋu.",
         "chatTitle": "Nutomeƒe ƒe Dzeɖoɖo",
-        "chatDescription": "Èle biabia aɖe ta dim alo nàdi be yeadzro nutomeŋutinunya aɖe mea? Ƒo nu kple Duŋgã ƒe dɔwɔƒe ƒe AI kpeɖeŋutɔ hena nyatakakawo xɔxɔ kple wò susuwo gblɔgblɔ.",
+        "chatDescription": "Wɔ ɖeka kple NYC nɔla bubuwo le dzeɖoɖoa me be miadzro nutomeŋutinunyawo me eye miagblɔ miaƒe susuwo.",
         "announcementsTitle": "Nutomeƒe ƒe Gbeƒãɖeɖewo",
         "newsletterTitle": "Nɔ Anyi Kple Nyatakakawo",
         "newsletterDescription": "Wɔ míaƒe kwasiɖa sia kwasiɖa ƒe nyadzɔdzɔgbalẽa hena yeyewɔwɔwo le Duŋgã ƒe agenda kple nutomeƒe ƒe wɔnawo ŋu.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "Esiae nye New York City Duŋgã Zohran Mamdani ƒe dɔwɔƒe. Míele afisia be míase miaƒe dzitsitsiawo kple tamesusuwo na míaƒe du gã la tẽ. Nukae le wò susu me?",
-        "typing": "Duŋgã le nu ŋlɔm",
+        "initialMessage": "Woezɔ loo ɖe Nutomeƒe ƒe Dzeɖoɖo me! Esiae nye teƒe na nɔlawo katã be woadzro nya veviwo me. Meɖe kuku, bu ame bubuwo.",
         "you": "Wò",
-        "mayor": "Duŋgã",
-        "placeholder": "Ŋlɔ wò gbedasi na Duŋgã...",
+        "placeholder": "Wɔ ɖeka kple dzeɖoɖoa...",
         "send": "Ðoe ɖa"
     },
     "report": {

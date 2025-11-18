@@ -23,7 +23,7 @@
         "reportTitle": "Enviar um Relatório Visual",
         "reportDescription": "Viu um problema em sua comunidade? Faça o upload de uma foto, descreva o problema e envie-o diretamente para o departamento municipal relevante.",
         "chatTitle": "Chat da Comunidade",
-        "chatDescription": "Tem uma pergunta ou quer discutir um tópico da comunidade? Interaja com o assistente de IA do gabinete do Prefeito para obter informações e compartilhar seu feedback.",
+        "chatDescription": "Participe da conversa com outros residentes de NYC para discutir tópicos da comunidade e compartilhar seu feedback.",
         "announcementsTitle": "Anúncios da Comunidade",
         "newsletterTitle": "Mantenha-se Informado",
         "newsletterDescription": "Assine nossa newsletter semanal para atualizações sobre a agenda do Prefeito e eventos comunitários.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "Este é o Gabinete do Prefeito da Cidade de Nova York, Zohran Mamdani. Estamos aqui para ouvir diretamente suas preocupações e ideias para nossa grande cidade. O que você tem em mente?",
-        "typing": "O Prefeito está digitando",
+        "initialMessage": "Bem-vindo ao Chat da Comunidade! Este é um espaço para todos os residentes discutirem tópicos importantes. Por favor, seja respeitoso com os outros.",
         "you": "Você",
-        "mayor": "Prefeito",
-        "placeholder": "Digite sua mensagem para o Prefeito...",
+        "placeholder": "Participe da conversa...",
         "send": "Enviar"
     },
     "report": {

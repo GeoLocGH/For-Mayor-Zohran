@@ -23,7 +23,7 @@
         "reportTitle": "Fa Anisoadehu ho Amanneɛbɔ Kɔma",
         "reportDescription": "Woahu ɔhaw bi wɔ wo mpɔtam? Fa mfonini bi gu so, kyerɛkyerɛ ɔhaw no mu, na fa kɔma kurow no dwumadibea a ɛfa ho no tẽẽ.",
         "chatTitle": "Nkurobɔ Mu Nkitahodi",
-        "chatDescription": "Wowɔ asɛmmisa bi anaasɛ wopɛ sɛ wususuw nkurobɔ mu asɛm bi ho? Fa wo ho hyɛ Mayor adwumayɛbea no AI boafo no mu na nya nsɛm na kyɛ w'adwenem.",
+        "chatDescription": "Fa wo ho kɔbɔ NYCfo foforo nkitahodi mu na susuw nkurobɔ mu nsɛm ho na kyɛ w'adwenem.",
         "announcementsTitle": "Nkurobɔ Mu Nkaebɔ",
         "newsletterTitle": "Gye Nsɛm Foforo",
         "newsletterDescription": "Kyerɛw wo din ma yɛn nnawɔtwe nkrataa krataa no na nya nsɛm foforo fa Mayor no agenda ne nkurobɔ mu nnwuma ho.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "Eyi ne New York Kurow Mayor Zohran Mamdani adwumayɛbea. Yɛwɔ ha sɛ yebetie mo haw ne mo adwenkyerɛ a ɛfa yɛn kurow kɛse yi ho tẽẽ. Dɛn na ɛwɔ w'adwenem?",
-        "typing": "Mayor no rekyerɛw",
+        "initialMessage": "Akwaaba aba Nkurobɔ Mu Nkitahodi! Eyi yɛ beae a kurow mufo nyinaa betumi asusuw nsɛm a ehia ho. Yɛsrɛ wo di afoforo ni.",
         "you": "Wo",
-        "mayor": "Mayor",
-        "placeholder": "Kyerɛw wo nkra kɔma Mayor no...",
+        "placeholder": "Fa wo ho kɔbɔ nkɔmmɔ no mu...",
         "send": "Mena"
     },
     "report": {

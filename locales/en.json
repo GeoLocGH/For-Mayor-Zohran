@@ -23,7 +23,7 @@
         "reportTitle": "Submit a Visual Report",
         "reportDescription": "Spotted an issue in your community? Upload a photo, describe the problem, and submit it directly to the relevant city department.",
         "chatTitle": "Community Chat",
-        "chatDescription": "Have a question or want to discuss a community topic? Engage with the Mayor's office AI assistant for information and to share your feedback.",
+        "chatDescription": "Join the conversation with fellow NYC residents to discuss community topics and share your feedback.",
         "announcementsTitle": "Community Announcements",
         "newsletterTitle": "Stay Informed",
         "newsletterDescription": "Subscribe to our weekly newsletter for updates on the Mayor's agenda and community events.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "This is New York City Mayor Zohran Mamdani's Office. We are here to listen directly to your concerns and ideas for our great city. What's on your mind?",
-        "typing": "The Mayor is typing",
+        "initialMessage": "Welcome to the Community Chat! This is a space for all residents to discuss important topics. Please be respectful of others.",
         "you": "You",
-        "mayor": "Mayor",
-        "placeholder": "Type your message to the Mayor...",
+        "placeholder": "Join the conversation...",
         "send": "Send"
     },
     "report": {

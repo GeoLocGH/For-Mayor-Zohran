@@ -23,7 +23,7 @@
         "reportTitle": "Wasilisha Ripoti ya Kuona",
         "reportDescription": "Umeona tatizo katika jamii yako? Pakia picha, elezea tatizo, na uwasilishe moja kwa moja kwa idara husika ya jiji.",
         "chatTitle": "Soga ya Jamii",
-        "chatDescription": "Una swali au unataka kujadili mada ya jamii? Wasiliana na msaidizi wa AI wa ofisi ya meya kwa habari na kutoa maoni yako.",
+        "chatDescription": "Jiunge na mazungumzo na wakaazi wengine wa NYC kujadili mada za jamii na kushiriki maoni yako.",
         "announcementsTitle": "Matangazo ya Jamii",
         "newsletterTitle": "Pata Taarifa",
         "newsletterDescription": "Jiandikishe kwa jarida letu la kila wiki kwa masasisho kuhusu ajenda ya meya na matukio ya jamii.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "Hii ni Ofisi ya Meya wa Jiji la New York Zohran Mamdani. Tuko hapa kusikiliza moja kwa moja wasiwasi na maoni yako kwa jiji letu kuu. Unafikiria nini?",
-        "typing": "Meya anaandika",
+        "initialMessage": "Karibu kwenye Soga ya Jamii! Hapa ni mahali pa wakaazi wote kujadili mada muhimu. Tafadhali heshimu wengine.",
         "you": "Wewe",
-        "mayor": "Meya",
-        "placeholder": "Andika ujumbe wako kwa Meya...",
+        "placeholder": "Jiunge na mazungumzo...",
         "send": "Tuma"
     },
     "report": {

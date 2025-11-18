@@ -23,7 +23,7 @@
         "reportTitle": "提交视觉报告",
         "reportDescription": "在您的社区发现了问题？上传照片，描述问题，并直接提交给相关的市级部门。",
         "chatTitle": "社区聊天",
-        "chatDescription": "有疑问或想讨论社区话题？与市长办公室的AI助手互动，获取信息并分享您的反馈。",
+        "chatDescription": "与其他纽约市居民一起参与对话，讨论社区话题并分享您的反馈。",
         "announcementsTitle": "社区公告",
         "newsletterTitle": "保持信息更新",
         "newsletterDescription": "订阅我们的每周通讯，了解市长议程和社区活动的最新动态。",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "这里是纽约市长佐兰·曼达尼的办公室。我们在这里直接听取您对我们伟大城市的担忧和想法。您有什么想法？",
-        "typing": "市长正在输入",
+        "initialMessage": "欢迎来到社区聊天室！这是一个供所有居民讨论重要话题的空间。请尊重他人。",
         "you": "您",
-        "mayor": "市长",
-        "placeholder": "向市长输入您的消息...",
+        "placeholder": "加入对话...",
         "send": "发送"
     },
     "report": {

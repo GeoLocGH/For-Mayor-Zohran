@@ -103,7 +103,7 @@ function AppContent() {
         return <VisualReportTool />;
       case 'chat':
         // currentUser is guaranteed to be non-null here due to the check above
-        return <ChatRoom />;
+        return <ChatRoom currentUser={currentUser!} />;
       case 'login':
         return <LoginPage onLogin={handleLogin} onSignup={handleSignup} />;
       default:

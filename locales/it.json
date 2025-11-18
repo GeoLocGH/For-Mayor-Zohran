@@ -23,7 +23,7 @@
         "reportTitle": "Invia una Segnalazione Visiva",
         "reportDescription": "Hai notato un problema nella tua comunità? Carica una foto, descrivi il problema e invialo direttamente al dipartimento cittadino competente.",
         "chatTitle": "Chat della Comunità",
-        "chatDescription": "Hai una domanda o vuoi discutere un argomento della comunità? Interagisci con l'assistente AI dell'ufficio del sindaco per informazioni e per condividere il tuo feedback.",
+        "chatDescription": "Unisciti alla conversazione con altri residenti di NYC per discutere di argomenti della comunità e condividere il tuo feedback.",
         "announcementsTitle": "Annunci della Comunità",
         "newsletterTitle": "Rimani Informato",
         "newsletterDescription": "Iscriviti alla nostra newsletter settimanale per aggiornamenti sull'agenda del sindaco e sugli eventi della comunità.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "Questo è l'ufficio del sindaco di New York City, Zohran Mamdani. Siamo qui per ascoltare direttamente le vostre preoccupazioni e idee per la nostra grande città. Cosa avete in mente?",
-        "typing": "Il Sindaco sta scrivendo",
+        "initialMessage": "Benvenuti nella Chat della Comunità! Questo è uno spazio per tutti i residenti per discutere di argomenti importanti. Si prega di rispettare gli altri.",
         "you": "Tu",
-        "mayor": "Sindaco",
-        "placeholder": "Scrivi il tuo messaggio al Sindaco...",
+        "placeholder": "Unisciti alla conversazione...",
         "send": "Invia"
     },
     "report": {

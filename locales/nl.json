@@ -23,7 +23,7 @@
         "reportTitle": "Een Visueel Rapport Indienen",
         "reportDescription": "Heeft u een probleem in uw gemeenschap opgemerkt? Upload een foto, beschrijf het probleem en dien het rechtstreeks in bij de relevante stadsdienst.",
         "chatTitle": "Community Chat",
-        "chatDescription": "Heeft u een vraag of wilt u een gemeenschapsonderwerp bespreken? Ga in gesprek met de AI-assistent van het burgemeesterskantoor voor informatie en om uw feedback te delen.",
+        "chatDescription": "Neem deel aan het gesprek met andere inwoners van NYC om gemeenschapsonderwerpen te bespreken en uw feedback te delen.",
         "announcementsTitle": "Aankondigingen van de Gemeenschap",
         "newsletterTitle": "Blijf Geïnformeerd",
         "newsletterDescription": "Abonneer u op onze wekelijkse nieuwsbrief voor updates over de agenda van de burgemeester en gemeenschapsevenementen.",
@@ -44,11 +44,9 @@
         }
     },
     "chat": {
-        "initialMessage": "Dit is het kantoor van de burgemeester van New York City, Zohran Mamdani. We zijn hier om rechtstreeks naar uw zorgen en ideeën voor onze geweldige stad te luisteren. Wat houdt u bezig?",
-        "typing": "De burgemeester typt",
+        "initialMessage": "Welkom bij de Community Chat! Dit is een ruimte voor alle inwoners om belangrijke onderwerpen te bespreken. Wees respectvol naar anderen.",
         "you": "U",
-        "mayor": "Burge.",
-        "placeholder": "Typ uw bericht aan de burgemeester...",
+        "placeholder": "Neem deel aan het gesprek...",
         "send": "Verstuur"
     },
     "report": {
